@@ -25,7 +25,7 @@
 
 - **Custom Library Curation**: Personalize your collection by editing box art and ROM titles within the dashboard.
 
-- **Universal Compatibility**: Optimized for a seamless retro gaming experience on both desktop and mobile.
+- **Platform Compatibility**: Optimized for a seamless experience across both desktop and mobile browsers.
 
 ---
 
