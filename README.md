@@ -26,10 +26,10 @@
 ## Screenshots
 
 **Injected Buttons**  
-<img src="./img/buttons.png" alt="Injected Buttons" width="300">
+<img src="./img/buttons.png" alt="Injected Buttons" width="100%">
 
 **User Dashboard**  
-<img src="./img/arcade-dashboard.png" alt="User Dashboard" width="300">
+<img src="./img/arcade-dashboard.png" alt="User Dashboard" width="100%">
 ---
 
 ## Installation
