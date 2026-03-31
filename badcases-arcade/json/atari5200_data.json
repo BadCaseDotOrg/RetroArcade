@@ -1,0 +1,650 @@
+﻿[
+    {
+        "name":  "Activision Decathlon, The (USA)",
+        "description":  "Activision Decathlon, The (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Olympic/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Activision Decathlon, The (USA).png"
+    },
+    {
+        "name":  "Astro Chase (USA)",
+        "description":  "Astro Chase (USA)",
+        "manufacturer":  "Parker Brothers",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Astro Chase (USA).png"
+    },
+    {
+        "name":  "Ballblazer (USA)",
+        "description":  "Ballblazer (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1986",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Ballblazer (USA).png"
+    },
+    {
+        "name":  "Beamrider (USA)",
+        "description":  "Beamrider (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Beamrider (USA).png"
+    },
+    {
+        "name":  "BerZerk (USA)",
+        "description":  "BerZerk (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/BerZerk (USA).png"
+    },
+    {
+        "name":  "Blue Print (USA)",
+        "description":  "Blue Print (USA)",
+        "manufacturer":  "CBS Electronics",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Blue Print (USA).png"
+    },
+    {
+        "name":  "Bounty Bob Strikes Back! (USA)",
+        "description":  "Bounty Bob Strikes Back! (USA)",
+        "manufacturer":  "Big Five Software",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Bounty Bob Strikes Back! (USA).png"
+    },
+    {
+        "name":  "Buck Rogers - Planet of Zoom (USA)",
+        "description":  "Buck Rogers - Planet of Zoom (USA)",
+        "manufacturer":  "CBS Electronics",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Buck Rogers - Planet of Zoom (USA).png"
+    },
+    {
+        "name":  "Carol Shaw\u0027s River Raid (USA)",
+        "description":  "Carol Shaw\u0027s River Raid (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Carol Shaw\u0027s River Raid (USA).png"
+    },
+    {
+        "name":  "Castle Blast (USA) (Unl)",
+        "description":  "Castle Blast (USA) (Unl)",
+        "manufacturer":  "Self-Published",
+        "year":  "2002",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Castle Blast (USA) (Unl).png"
+    },
+    {
+        "name":  "Castle Crisis (USA) (Unl)",
+        "description":  "Castle Crisis (USA) (Unl)",
+        "manufacturer":  "Self-Published",
+        "year":  "2004",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Castle Crisis (USA) (Unl).png"
+    },
+    {
+        "name":  "Centipede (USA)",
+        "description":  "Centipede (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Centipede (USA).png"
+    },
+    {
+        "name":  "Choplifter! (USA)",
+        "description":  "Choplifter! (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Choplifter! (USA).png"
+    },
+    {
+        "name":  "Congo Bongo (USA)",
+        "description":  "Congo Bongo (USA)",
+        "manufacturer":  "Sega",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Congo Bongo (USA).png"
+    },
+    {
+        "name":  "Countermeasure (USA)",
+        "description":  "Countermeasure (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Countermeasure (USA).png"
+    },
+    {
+        "name":  "David Crane\u0027s Pitfall II - Lost Caverns (USA)",
+        "description":  "David Crane\u0027s Pitfall II - Lost Caverns (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/David Crane\u0027s Pitfall II - Lost Caverns (USA).png"
+    },
+    {
+        "name":  "Defender (USA)",
+        "description":  "Defender (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Defender (USA).png"
+    },
+    {
+        "name":  "Dig Dug (USA)",
+        "description":  "Dig Dug (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Dig Dug (USA).png"
+    },
+    {
+        "name":  "Dreadnaught Factor, The (USA)",
+        "description":  "Dreadnaught Factor, The (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Dreadnaught Factor, The (USA).png"
+    },
+    {
+        "name":  "Frogger (USA)",
+        "description":  "Frogger (USA)",
+        "manufacturer":  "Parker Brothers",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Frogger (USA).png"
+    },
+    {
+        "name":  "Frogger II - Threeedeep! (USA)",
+        "description":  "Frogger II - Threeedeep! (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Frogger II - Threeedeep! (USA).png"
+    },
+    {
+        "name":  "Galaxian (USA)",
+        "description":  "Galaxian (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Galaxian (USA).png"
+    },
+    {
+        "name":  "Gorf (USA)",
+        "description":  "Gorf (USA)",
+        "manufacturer":  "CBS Electronics",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Gorf (USA).png"
+    },
+    {
+        "name":  "Gremlins (USA)",
+        "description":  "Gremlins (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1987",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Gremlins (USA).png"
+    },
+    {
+        "name":  "Gyruss (USA)",
+        "description":  "Gyruss (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1984",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Gyruss (USA).png"
+    },
+    {
+        "name":  "H.E.R.O. (USA)",
+        "description":  "H.E.R.O. (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/H.E.R.O. (USA).png"
+    },
+    {
+        "name":  "James Bond 007 (USA)",
+        "description":  "James Bond 007 (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/James Bond 007 (USA).png"
+    },
+    {
+        "name":  "Joust (USA)",
+        "description":  "Joust (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Joust (USA).png"
+    },
+    {
+        "name":  "Jungle Hunt (USA)",
+        "description":  "Jungle Hunt (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Jungle Hunt (USA).png"
+    },
+    {
+        "name":  "K-Razy Shoot-Out (USA)",
+        "description":  "K-Razy Shoot-Out (USA)",
+        "manufacturer":  "CBS Electronics",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/K-Razy Shoot-Out (USA).png"
+    },
+    {
+        "name":  "Kaboom! (USA)",
+        "description":  "Kaboom! (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Kaboom! (USA).png"
+    },
+    {
+        "name":  "Kangaroo (USA)",
+        "description":  "Kangaroo (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Kangaroo (USA).png"
+    },
+    {
+        "name":  "Keystone Kapers (USA)",
+        "description":  "Keystone Kapers (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Keystone Kapers (USA).png"
+    },
+    {
+        "name":  "Koffi - Yellow Kopter (USA) (Unl)",
+        "description":  "Koffi - Yellow Kopter (USA) (Unl)",
+        "manufacturer":  "Self-Published",
+        "year":  "2002",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Koffi - Yellow Kopter (USA) (Unl).png"
+    },
+    {
+        "name":  "Mario Bros. (USA)",
+        "description":  "Mario Bros. (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Mario Bros. (USA).png"
+    },
+    {
+        "name":  "MegaMania (USA)",
+        "description":  "MegaMania (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1983",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/MegaMania (USA).png"
+    },
+    {
+        "name":  "Meteorites (USA)",
+        "description":  "Meteorites (USA)",
+        "manufacturer":  "Electra",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Meteorites (USA).png"
+    },
+    {
+        "name":  "Miner 2049er Starring Bounty Bob (USA)",
+        "description":  "Miner 2049er Starring Bounty Bob (USA)",
+        "manufacturer":  "Big Five Software",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Miner 2049er Starring Bounty Bob (USA).png"
+    },
+    {
+        "name":  "Missile Command (USA)",
+        "description":  "Missile Command (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Missile Command (USA).png"
+    },
+    {
+        "name":  "Montezuma\u0027s Revenge featuring Panama Joe (USA)",
+        "description":  "Montezuma\u0027s Revenge featuring Panama Joe (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Montezuma\u0027s Revenge featuring Panama Joe (USA).png"
+    },
+    {
+        "name":  "Moon Patrol (USA)",
+        "description":  "Moon Patrol (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Moon Patrol (USA).png"
+    },
+    {
+        "name":  "Mountain King (USA)",
+        "description":  "Mountain King (USA)",
+        "manufacturer":  "CBS Electronics",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Mountain King (USA).png"
+    },
+    {
+        "name":  "Mr. Do!\u0027s Castle (USA)",
+        "description":  "Mr. Do!\u0027s Castle (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Mr. Do!\u0027s Castle (USA).png"
+    },
+    {
+        "name":  "Ms. Pac-Man (USA)",
+        "description":  "Ms. Pac-Man (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Ms. Pac-Man (USA).png"
+    },
+    {
+        "name":  "Pac-Man (USA)",
+        "description":  "Pac-Man (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Jr. Pac-Man (USA) (Proto).png"
+    },
+    {
+        "name":  "Pengo (USA)",
+        "description":  "Pengo (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Pengo (USA).png"
+    },
+    {
+        "name":  "Pitfall! (USA)",
+        "description":  "Pitfall! (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1983",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Pitfall! (USA).png"
+    },
+    {
+        "name":  "Pole Position (USA)",
+        "description":  "Pole Position (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Pole Position (USA).png"
+    },
+    {
+        "name":  "Popeye (USA)",
+        "description":  "Popeye (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Popeye (USA).png"
+    },
+    {
+        "name":  "Q-bert (USA)",
+        "description":  "Q-bert (USA)",
+        "manufacturer":  "Parker Brothers",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Q-bert (USA).png"
+    },
+    {
+        "name":  "Qix (USA)",
+        "description":  "Qix (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Qix (USA).png"
+    },
+    {
+        "name":  "Quest for Quintana Roo (USA)",
+        "description":  "Quest for Quintana Roo (USA)",
+        "manufacturer":  "Sunrise Software Inc.",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Quest for Quintana Roo (USA).png"
+    },
+    {
+        "name":  "RealSports Baseball (USA)",
+        "description":  "RealSports Baseball (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Baseball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/RealSports Baseball (USA).png"
+    },
+    {
+        "name":  "RealSports Football (USA)",
+        "description":  "RealSports Football (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1983",
+        "genre":  "Football/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/RealSports Football (USA).png"
+    },
+    {
+        "name":  "RealSports Soccer (USA)",
+        "description":  "RealSports Soccer (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1983",
+        "genre":  "Soccer/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/RealSports Soccer (USA).png"
+    },
+    {
+        "name":  "RealSports Tennis (USA)",
+        "description":  "RealSports Tennis (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Sports/Tennis",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/RealSports Tennis (USA).png"
+    },
+    {
+        "name":  "Rescue on Fractalus! (USA)",
+        "description":  "Rescue on Fractalus! (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1986",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Rescue on Fractalus! (USA).png"
+    },
+    {
+        "name":  "Robotron 2084 (USA)",
+        "description":  "Robotron 2084 (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Robotron 2084 (USA).png"
+    },
+    {
+        "name":  "Space Dungeon (USA)",
+        "description":  "Space Dungeon (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Space Dungeon (USA).png"
+    },
+    {
+        "name":  "Space Invaders (USA)",
+        "description":  "Space Invaders (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Space Invaders (USA).png"
+    },
+    {
+        "name":  "Space Shuttle - A Journey Into Space (USA)",
+        "description":  "Space Shuttle - A Journey Into Space (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Space Shuttle - A Journey Into Space (USA).png"
+    },
+    {
+        "name":  "Star Raiders (USA)",
+        "description":  "Star Raiders (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Star Raiders (USA).png"
+    },
+    {
+        "name":  "Star Trek - Strategic Operations Simulator (USA)",
+        "description":  "Star Trek - Strategic Operations Simulator (USA)",
+        "manufacturer":  "Sega",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Star Trek - Strategic Operations Simulator (USA).png"
+    },
+    {
+        "name":  "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+        "description":  "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Star Wars - Return of the Jedi - Death Star Battle (USA).png"
+    },
+    {
+        "name":  "Star Wars - The Arcade Game (USA)",
+        "description":  "Star Wars - The Arcade Game (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Star Wars - The Arcade Game (USA).png"
+    },
+    {
+        "name":  "Super Breakout (USA)",
+        "description":  "Super Breakout (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1982",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Super Breakout (USA).png"
+    },
+    {
+        "name":  "Super Cobra (USA)",
+        "description":  "Super Cobra (USA)",
+        "manufacturer":  "Parker Bros",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Super Cobra (USA).png"
+    },
+    {
+        "name":  "Vanguard (USA)",
+        "description":  "Vanguard (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1984",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Vanguard (USA).png"
+    },
+    {
+        "name":  "Wizard of Wor (USA)",
+        "description":  "Wizard of Wor (USA)",
+        "manufacturer":  "CBS Electronics",
+        "year":  "1981",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Wizard of Wor (USA).png"
+    },
+    {
+        "name":  "Zaxxon (USA)",
+        "description":  "Zaxxon (USA)",
+        "manufacturer":  "Sega",
+        "year":  "1983",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Zaxxon (USA).png"
+    },
+    {
+        "name":  "Zenji (USA)",
+        "description":  "Zenji (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Zenji (USA).png"
+    },
+    {
+        "name":  "Zone Ranger (USA)",
+        "description":  "Zone Ranger (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1984",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a5200-box-art/A5200 Box Art/Zone Ranger (USA).png"
+    }
+]

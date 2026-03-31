@@ -1,0 +1,677 @@
+﻿[
+    {
+        "name":  "A.P.B. - All Points Bulletin (USA, Europe)",
+        "description":  "A.P.B. - All Points Bulletin (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/A.P.B. - All Points Bulletin (USA, Europe).png"
+    },
+    {
+        "name":  "Awesome Golf (USA, Europe)",
+        "description":  "Awesome Golf (USA, Europe)",
+        "manufacturer":  "Hand Made Software, Ltd.",
+        "year":  "1991",
+        "genre":  "Golf/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Awesome Golf (USA, Europe).png"
+    },
+    {
+        "name":  "Basketbrawl (USA, Europe)",
+        "description":  "Basketbrawl (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Basketball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Basketbrawl (USA, Europe).png"
+    },
+    {
+        "name":  "Batman Returns (USA, Europe)",
+        "description":  "Batman Returns (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Batman Returns (USA, Europe).png"
+    },
+    {
+        "name":  "Battle Wheels (USA, Europe)",
+        "description":  "Battle Wheels (USA, Europe)",
+        "manufacturer":  "Beyond Games",
+        "year":  "1992",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Battle Wheels (USA, Europe).png"
+    },
+    {
+        "name":  "Battlezone 2000 (USA, Europe)",
+        "description":  "Battlezone 2000 (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1994",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Battlezone 2000 (USA, Europe).png"
+    },
+    {
+        "name":  "Bill \u0026 Ted\u0027s Excellent Adventure (USA, Europe)",
+        "description":  "Bill \u0026 Ted\u0027s Excellent Adventure (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1989",
+        "genre":  "Adventure",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Bill \u0026 Ted\u0027s Excellent Adventure (USA, Europe).png"
+    },
+    {
+        "name":  "Block Out (USA, Europe)",
+        "description":  "Block Out (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Block Out (USA, Europe).png"
+    },
+    {
+        "name":  "Blue Lightning (USA, Europe)",
+        "description":  "Blue Lightning (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1989",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Blue Lightning (USA, Europe).png"
+    },
+    {
+        "name":  "Bubble Trouble (USA, Europe)",
+        "description":  "Bubble Trouble (USA, Europe)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Bubble Trouble (USA, Europe).png"
+    },
+    {
+        "name":  "California Games (USA, Europe)",
+        "description":  "California Games (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1989",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/California Games (USA, Europe).png"
+    },
+    {
+        "name":  "Checkered Flag (USA, Europe)",
+        "description":  "Checkered Flag (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Checkered Flag (USA, Europe).png"
+    },
+    {
+        "name":  "Chip\u0027s Challenge (USA, Europe)",
+        "description":  "Chip\u0027s Challenge (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1989",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Chip\u0027s Challenge (USA, Europe).png"
+    },
+    {
+        "name":  "Crystal Mines II (USA, Europe)",
+        "description":  "Crystal Mines II (USA, Europe)",
+        "manufacturer":  "Color Dreams",
+        "year":  "1990",
+        "genre":  "Strategy",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Crystal Mines II (USA, Europe).png"
+    },
+    {
+        "name":  "Desert Strike - Return to the Gulf (USA, Europe)",
+        "description":  "Desert Strike - Return to the Gulf (USA, Europe)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1993",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Desert Strike - Return to the Gulf (USA, Europe).png"
+    },
+    {
+        "name":  "Dinolympics (USA, Europe)",
+        "description":  "Dinolympics (USA, Europe)",
+        "manufacturer":  "Imagitec Design, Inc.",
+        "year":  "1992",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Dinolympics (USA, Europe).png"
+    },
+    {
+        "name":  "Dirty Larry - Renegade Cop (USA, Europe)",
+        "description":  "Dirty Larry - Renegade Cop (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Dirty Larry - Renegade Cop (USA, Europe).png"
+    },
+    {
+        "name":  "Double Dragon (USA, Europe)",
+        "description":  "Double Dragon (USA, Europe)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1993",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Double Dragon (USA, Europe).png"
+    },
+    {
+        "name":  "Dracula the Undead (USA, Europe)",
+        "description":  "Dracula the Undead (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Adventure",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Dracula the Undead (USA, Europe).png"
+    },
+    {
+        "name":  "Electrocop (USA, Europe)",
+        "description":  "Electrocop (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1989",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Electrocop (USA, Europe).png"
+    },
+    {
+        "name":  "European Soccer Challenge (USA, Europe)",
+        "description":  "European Soccer Challenge (USA, Europe)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1993",
+        "genre":  "Soccer/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/European Soccer Challenge (USA, Europe).png"
+    },
+    {
+        "name":  "Fat Bobby (USA, Europe)",
+        "description":  "Fat Bobby (USA, Europe)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1997",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Fat Bobby (USA, Europe).png"
+    },
+    {
+        "name":  "Fidelity Ultimate Chess Challenge, The (USA, Europe)",
+        "description":  "Fidelity Ultimate Chess Challenge, The (USA, Europe)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1992",
+        "genre":  "Board Games",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Fidelity Ultimate Chess Challenge, The (USA, Europe).png"
+    },
+    {
+        "name":  "Gates of Zendocon, The (USA, Europe)",
+        "description":  "Gates of Zendocon, The (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1993",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Gates of Zendocon, The (USA, Europe).png"
+    },
+    {
+        "name":  "Gauntlet - The Third Encounter (USA, Europe)",
+        "description":  "Gauntlet - The Third Encounter (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1990",
+        "genre":  "Adventure",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Gauntlet - The Third Encounter (USA, Europe).png"
+    },
+    {
+        "name":  "Gordo 106 - The Mutated Lab Monkey (USA, Europe)",
+        "description":  "Gordo 106 - The Mutated Lab Monkey (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Gordo 106 - The Mutated Lab Monkey (USA, Europe).png"
+    },
+    {
+        "name":  "Hard Drivin\u0027 (USA, Europe)",
+        "description":  "Hard Drivin\u0027 (USA, Europe)",
+        "manufacturer":  "NuFX",
+        "year":  "1991",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Hard Drivin\u0027 (USA, Europe).png"
+    },
+    {
+        "name":  "Hockey (USA, Europe)",
+        "description":  "Hockey (USA, Europe)",
+        "manufacturer":  "Alpine Studios",
+        "year":  "1992",
+        "genre":  "Hockey/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Hockey (USA, Europe).png"
+    },
+    {
+        "name":  "Hydra (USA, Europe)",
+        "description":  "Hydra (USA, Europe)",
+        "manufacturer":  "NuFX",
+        "year":  "1992",
+        "genre":  "Water",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Hydra (USA, Europe).png"
+    },
+    {
+        "name":  "Ishido - The Way of Stones (USA, Europe)",
+        "description":  "Ishido - The Way of Stones (USA, Europe)",
+        "manufacturer":  "California Dreams",
+        "year":  "1991",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Ishido - The Way of Stones (USA, Europe).png"
+    },
+    {
+        "name":  "Jimmy Connors\u0027 Tennis (USA, Europe)",
+        "description":  "Jimmy Connors\u0027 Tennis (USA, Europe)",
+        "manufacturer":  "HandMade Software",
+        "year":  "1993",
+        "genre":  "Sports/Tennis",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Jimmy Connors\u0027 Tennis (USA, Europe).png"
+    },
+    {
+        "name":  "Joust (USA, Europe)",
+        "description":  "Joust (USA, Europe)",
+        "manufacturer":  "Shadowsoft",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Joust (USA, Europe).png"
+    },
+    {
+        "name":  "Klax (USA, Europe)",
+        "description":  "Klax (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Klax (USA, Europe).png"
+    },
+    {
+        "name":  "Krazy Ace - Miniature Golf (USA, Europe)",
+        "description":  "Krazy Ace - Miniature Golf (USA, Europe)",
+        "manufacturer":  "Telegames",
+        "year":  "1993",
+        "genre":  "Golf/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Krazy Ace - Miniature Golf (USA, Europe).png"
+    },
+    {
+        "name":  "Kung Food (USA, Europe)",
+        "description":  "Kung Food (USA, Europe)",
+        "manufacturer":  "Lore Games",
+        "year":  "1992",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Kung Food (USA, Europe).png"
+    },
+    {
+        "name":  "Lemmings (USA, Europe)",
+        "description":  "Lemmings (USA, Europe)",
+        "manufacturer":  "DMA Design Limited",
+        "year":  "1993",
+        "genre":  "Strategy",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Lemmings (USA, Europe).png"
+    },
+    {
+        "name":  "Lexis (USA, Europe)",
+        "description":  "Lexis (USA, Europe)",
+        "manufacturer":  "Shadowsoft",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Lexis (USA, Europe).png"
+    },
+    {
+        "name":  "Lynx Casino (USA, Europe)",
+        "description":  "Lynx Casino (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Casino",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Lynx Casino (USA, Europe).png"
+    },
+    {
+        "name":  "Malibu Bikini Volleyball (USA, Europe)",
+        "description":  "Malibu Bikini Volleyball (USA, Europe)",
+        "manufacturer":  "HandMade Software",
+        "year":  "1993",
+        "genre":  "Sports/Volleyball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Malibu Bikini Volleyball (USA, Europe).png"
+    },
+    {
+        "name":  "Ms. Pac-Man (USA, Europe)",
+        "description":  "Ms. Pac-Man (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Ms. Pac-Man (USA, Europe).png"
+    },
+    {
+        "name":  "NFL Football (USA, Europe)",
+        "description":  "NFL Football (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Football/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/NFL Football (USA, Europe).png"
+    },
+    {
+        "name":  "Ninja Gaiden (USA, Europe)",
+        "description":  "Ninja Gaiden (USA, Europe)",
+        "manufacturer":  "Tecmo",
+        "year":  "1991",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Ninja Gaiden (USA, Europe).png"
+    },
+    {
+        "name":  "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)",
+        "description":  "Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)",
+        "manufacturer":  "Tecmo",
+        "year":  "1993",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).png"
+    },
+    {
+        "name":  "Pac-Land (USA, Europe)",
+        "description":  "Pac-Land (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Pac-Land (USA, Europe).png"
+    },
+    {
+        "name":  "Paperboy (USA, Europe)",
+        "description":  "Paperboy (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Paperboy (USA, Europe).png"
+    },
+    {
+        "name":  "Pinball Jam (USA, Europe)",
+        "description":  "Pinball Jam (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Pinball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Pinball Jam (USA, Europe).png"
+    },
+    {
+        "name":  "Pit Fighter - The Ultimate Competition (USA, Europe)",
+        "description":  "Pit Fighter - The Ultimate Competition (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Fighter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Pit Fighter - The Ultimate Competition (USA, Europe).png"
+    },
+    {
+        "name":  "Power Factor (USA, Europe)",
+        "description":  "Power Factor (USA, Europe)",
+        "manufacturer":  "HandMade Software",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Power Factor (USA, Europe).png"
+    },
+    {
+        "name":  "Qix (USA, Europe)",
+        "description":  "Qix (USA, Europe)",
+        "manufacturer":  "Knight Technologies",
+        "year":  "1991",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Qix (USA, Europe).png"
+    },
+    {
+        "name":  "Raiden (USA) (v3.0)",
+        "description":  "Raiden (USA) (v3.0)",
+        "manufacturer":  "Fabtek",
+        "year":  "1997",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Raiden (USA) (v3.0).png"
+    },
+    {
+        "name":  "Rampage (USA, Europe)",
+        "description":  "Rampage (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Rampage (USA, Europe).png"
+    },
+    {
+        "name":  "Rampart (USA, Europe)",
+        "description":  "Rampart (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Rampart (USA, Europe).png"
+    },
+    {
+        "name":  "RoadBlasters (USA, Europe)",
+        "description":  "RoadBlasters (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/RoadBlasters (USA, Europe).png"
+    },
+    {
+        "name":  "Robo-Squash (USA, Europe)",
+        "description":  "Robo-Squash (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Robo-Squash (USA, Europe).png"
+    },
+    {
+        "name":  "Robotron 2084 (USA, Europe)",
+        "description":  "Robotron 2084 (USA, Europe)",
+        "manufacturer":  "Shadowsoft",
+        "year":  "1991",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Robotron 2084 (USA, Europe).png"
+    },
+    {
+        "name":  "Rygar - Legendary Warrior (USA, Europe)",
+        "description":  "Rygar - Legendary Warrior (USA, Europe)",
+        "manufacturer":  "Tecmo",
+        "year":  "1990",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Rygar - Legendary Warrior (USA, Europe).png"
+    },
+    {
+        "name":  "S.T.U.N. Runner (USA, Europe)",
+        "description":  "S.T.U.N. Runner (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/S.T.U.N. Runner (USA, Europe).png"
+    },
+    {
+        "name":  "Scrapyard Dog (USA, Europe)",
+        "description":  "Scrapyard Dog (USA, Europe)",
+        "manufacturer":  "Creative Software Designs",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Scrapyard Dog (USA, Europe).png"
+    },
+    {
+        "name":  "Shadow of the Beast (USA, Europe)",
+        "description":  "Shadow of the Beast (USA, Europe)",
+        "manufacturer":  "Digital Developments",
+        "year":  "1992",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Shadow of the Beast (USA, Europe).png"
+    },
+    {
+        "name":  "Shanghai (USA, Europe)",
+        "description":  "Shanghai (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Shanghai (USA, Europe).png"
+    },
+    {
+        "name":  "Steel Talons (USA, Europe)",
+        "description":  "Steel Talons (USA, Europe)",
+        "manufacturer":  "NuFX",
+        "year":  "1992",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Steel Talons (USA, Europe).png"
+    },
+    {
+        "name":  "Super Asteroids, Missile Command (USA, Europe)",
+        "description":  "Super Asteroids, Missile Command (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1995",
+        "genre":  "Shoot-\u0027Em-Up/Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Super Asteroids, Missile Command (USA, Europe).png"
+    },
+    {
+        "name":  "Super Off-Road (USA, Europe)",
+        "description":  "Super Off-Road (USA, Europe)",
+        "manufacturer":  "Telegames",
+        "year":  "1993",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Super Off-Road (USA, Europe).png"
+    },
+    {
+        "name":  "Super Skweek (USA, Europe)",
+        "description":  "Super Skweek (USA, Europe)",
+        "manufacturer":  "Loriciel",
+        "year":  "1991",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Super Skweek (USA, Europe).png"
+    },
+    {
+        "name":  "Switchblade II (USA, Europe)",
+        "description":  "Switchblade II (USA, Europe)",
+        "manufacturer":  "Gremlin Graphics",
+        "year":  "1992",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Switchblade II (USA, Europe).png"
+    },
+    {
+        "name":  "Todd\u0027s Adventures in Slime World (USA, Europe)",
+        "description":  "Todd\u0027s Adventures in Slime World (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Todd\u0027s Adventures in Slime World (USA, Europe).png"
+    },
+    {
+        "name":  "Toki (USA, Europe)",
+        "description":  "Toki (USA, Europe)",
+        "manufacturer":  "Tad",
+        "year":  "1992",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Toki (USA, Europe).png"
+    },
+    {
+        "name":  "Tournament Cyberball (USA, Europe)",
+        "description":  "Tournament Cyberball (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Tournament Cyberball 2072 (USA, Europe).png"
+    },
+    {
+        "name":  "Turbo Sub (USA, Europe)",
+        "description":  "Turbo Sub (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Turbo Sub (USA, Europe).png"
+    },
+    {
+        "name":  "Viking Child (USA, Europe)",
+        "description":  "Viking Child (USA, Europe)",
+        "manufacturer":  "Imagitec Design",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Viking Child (USA, Europe).png"
+    },
+    {
+        "name":  "Warbirds (USA, Europe)",
+        "description":  "Warbirds (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Simulation",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Warbirds (USA, Europe).png"
+    },
+    {
+        "name":  "World Class Soccer (USA, Europe)",
+        "description":  "World Class Soccer (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1992",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/World Class Soccer (USA, Europe).png"
+    },
+    {
+        "name":  "Xenophobe (USA, Europe)",
+        "description":  "Xenophobe (USA, Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Xenophobe (USA, Europe).png"
+    },
+    {
+        "name":  "Xybots (USA, Europe)",
+        "description":  "Xybots (USA, Europe)",
+        "manufacturer":  "Tengen",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Xybots (USA, Europe).png"
+    },
+    {
+        "name":  "Zarlor Mercenary (USA, Europe)",
+        "description":  "Zarlor Mercenary (USA, Europe)",
+        "manufacturer":  "Epyx",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/al-box-art/AL Box Art/Zarlor Mercenary (USA, Europe).png"
+    }
+]

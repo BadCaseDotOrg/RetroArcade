@@ -1,0 +1,3233 @@
+﻿[
+    {
+        "name":  "007 - GoldenEye (USA)",
+        "description":  "007 - GoldenEye (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/007 - GoldenEye (USA).png"
+    },
+    {
+        "name":  "007 - The World Is Not Enough (USA)",
+        "description":  "007 - The World Is Not Enough (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/007 - The World Is Not Enough (USA).png"
+    },
+    {
+        "name":  "1080 Snowboarding (Japan, USA)",
+        "description":  "1080 Snowboarding (Japan, USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Sports/Snowboarding",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/1080 Snowboarding (Japan, USA) (En,Ja).png"
+    },
+    {
+        "name":  "40 Winks (Europe) (Proto)",
+        "description":  "40 Winks (Europe) (Proto)",
+        "manufacturer":  "Eurocom",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "64 Oozumou (Japan)",
+        "description":  "64 Oozumou (Japan)",
+        "manufacturer":  "Bottom Up",
+        "year":  "1997",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "64 Oozumou 2 (Japan)",
+        "description":  "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)",
+        "manufacturer":  "Bottom Up",
+        "year":  "1999",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)",
+        "description":  "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)",
+        "manufacturer":  "Bottom Up",
+        "year":  "1998",
+        "genre":  "Tabletop",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "AeroFighters Assault (USA)",
+        "description":  "AeroFighters Assault (USA)",
+        "manufacturer":  "Vic Tokai",
+        "year":  "1997",
+        "genre":  "Flying",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/AeroFighters Assault (USA).png"
+    },
+    {
+        "name":  "AeroGauge (USA)",
+        "description":  "AeroGauge (USA)",
+        "manufacturer":  "ASCII Entertainment",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/AeroGauge (USA).png"
+    },
+    {
+        "name":  "Aidyn Chronicles - The First Mage (USA)",
+        "description":  "Aidyn Chronicles - The First Mage (USA)",
+        "manufacturer":  "THQ",
+        "year":  "2001",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Aidyn Chronicles - The First Mage (USA).png"
+    },
+    {
+        "name":  "Air Boarder 64 (Europe)",
+        "description":  "Air Boarder 64 (Europe)",
+        "manufacturer":  "GMI",
+        "year":  "1998",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Air Boarder 64 (Europe).png"
+    },
+    {
+        "name":  "All Star Tennis \u002799 (USA)",
+        "description":  "All Star Tennis \u002799 (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1999",
+        "genre":  "Sports/Tennis",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/All Star Tennis \u002799 (USA).png"
+    },
+    {
+        "name":  "All-Star Baseball \u002799 (USA)",
+        "description":  "All-Star Baseball \u002799 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Sports/Baseball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/All-Star Baseball \u002799 (USA).png"
+    },
+    {
+        "name":  "All-Star Baseball 2000 (USA)",
+        "description":  "All-Star Baseball 2000 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Sports/Baseball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/All-Star Baseball 2000 (USA).png"
+    },
+    {
+        "name":  "All-Star Baseball 2001 (USA)",
+        "description":  "All-Star Baseball 2001 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "2000",
+        "genre":  "Sports/Baseball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/All-Star Baseball 2001 (USA).png"
+    },
+    {
+        "name":  "Armorines - Project S.W.A.R.M. (USA)",
+        "description":  "Armorines - Project S.W.A.R.M. (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Armorines - Project S.W.A.R.M. (USA).png"
+    },
+    {
+        "name":  "Army Men - Air Combat (USA)",
+        "description":  "Army Men - Air Combat (USA)",
+        "manufacturer":  "3DO",
+        "year":  "2000",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Army Men - Air Combat (USA).png"
+    },
+    {
+        "name":  "Army Men - Sarge\u0027s Heroes (USA)",
+        "description":  "Army Men - Sarge\u0027s Heroes (USA)",
+        "manufacturer":  "3DO",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Army Men - Sarge\u0027s Heroes (USA).png"
+    },
+    {
+        "name":  "Army Men - Sarge\u0027s Heroes 2 (USA)",
+        "description":  "Army Men - Sarge\u0027s Heroes 2 (USA)",
+        "manufacturer":  "3DO",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Army Men - Sarge\u0027s Heroes 2 (USA).png"
+    },
+    {
+        "name":  "Asteroids Hyper 64 (USA)",
+        "description":  "Asteroids Hyper 64 (USA)",
+        "manufacturer":  "Crave",
+        "year":  "1999",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Asteroids Hyper 64 (USA).png"
+    },
+    {
+        "name":  "Automobili Lamborghini (USA)",
+        "description":  "Automobili Lamborghini (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Automobili Lamborghini (USA).png"
+    },
+    {
+        "name":  "Bakuretsu Muteki Bangaioh (Japan)",
+        "description":  "Bakuretsu Muteki Bangaioh (Japan)",
+        "manufacturer":  "Treasure",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Banjo-Kazooie (USA)",
+        "description":  "Banjo-Kazooie (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Banjo-Kazooie (USA) (Rev A).png"
+    },
+    {
+        "name":  "Banjo-Tooie (USA)",
+        "description":  "Banjo-Tooie (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Banjo-Tooie (USA).png"
+    },
+    {
+        "name":  "Bassmasters 2000 (USA)",
+        "description":  "Bassmasters 2000 (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Sports/Fishing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bassmasters 2000 (USA).png"
+    },
+    {
+        "name":  "Batman Beyond - Return of the Joker (USA)",
+        "description":  "Batman Beyond - Return of the Joker (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "2000",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Batman Beyond - Return of the Joker (USA).png"
+    },
+    {
+        "name":  "BattleTanx (USA)",
+        "description":  "BattleTanx (USA)",
+        "manufacturer":  "3DO",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/BattleTanx (USA).png"
+    },
+    {
+        "name":  "BattleTanx - Global Assault (USA)",
+        "description":  "BattleTanx - Global Assault (USA)",
+        "manufacturer":  "3DO",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/BattleTanx - Global Assault (USA).png"
+    },
+    {
+        "name":  "Battlezone - Rise of the Black Dogs (USA)",
+        "description":  "Battlezone - Rise of the Black Dogs (USA)",
+        "manufacturer":  "Crave",
+        "year":  "2000",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Battlezone - Rise of the Black Dogs (USA).png"
+    },
+    {
+        "name":  "Beetle Adventure Racing! (USA)",
+        "description":  "Beetle Adventure Racing! (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Beetle Adventure Racing! (USA) (En,Fr,De).png"
+    },
+    {
+        "name":  "Big Mountain 2000 (USA)",
+        "description":  "Big Mountain 2000 (USA)",
+        "manufacturer":  "SouthPeak Games",
+        "year":  "2000",
+        "genre":  "Sports/Snowboarding",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Big Mountain 2000 (USA).png"
+    },
+    {
+        "name":  "Bio F.R.E.A.K.S. (USA)",
+        "description":  "Bio F.R.E.A.K.S. (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bio F.R.E.A.K.S. (USA).png"
+    },
+    {
+        "name":  "Blast Corps (USA)",
+        "description":  "Blast Corps (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Blast Corps (USA) (Rev A).png"
+    },
+    {
+        "name":  "Blues Brothers 2000 (USA)",
+        "description":  "Blues Brothers 2000 (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Blues Brothers 2000 (USA).png"
+    },
+    {
+        "name":  "Body Harvest (USA)",
+        "description":  "Body Harvest (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Body Harvest (USA).png"
+    },
+    {
+        "name":  "Bomberman 64 (Japan) (Arcade Edition)",
+        "description":  "Bomberman 64 (Japan) (Arcade Edition)",
+        "manufacturer":  "Hudson",
+        "year":  "2001",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bomberman 64 (USA).png"
+    },
+    {
+        "name":  "Bomberman 64 (USA)",
+        "description":  "Bomberman 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bomberman 64 (USA).png"
+    },
+    {
+        "name":  "Bomberman 64 - The Second Attack! (USA)",
+        "description":  "Bomberman 64 - The Second Attack! (USA)",
+        "manufacturer":  "Vatical Entertainment",
+        "year":  "2000",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bomberman 64 - The Second Attack! (USA).png"
+    },
+    {
+        "name":  "Bomberman Hero (USA)",
+        "description":  "Bomberman Hero (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bomberman Hero (USA).png"
+    },
+    {
+        "name":  "Bottom of the 9th (USA)",
+        "description":  "Bottom of the 9th (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bottom of the 9th (USA).png"
+    },
+    {
+        "name":  "Brunswick Circuit Pro Bowling (USA)",
+        "description":  "Brunswick Circuit Pro Bowling (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Sports/Bowling",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Brunswick Circuit Pro Bowling (USA).png"
+    },
+    {
+        "name":  "Buck Bumble (USA)",
+        "description":  "Buck Bumble (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Buck Bumble (USA).png"
+    },
+    {
+        "name":  "Bug\u0027s Life, A (USA)",
+        "description":  "Bug\u0027s Life, A (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bug\u0027s Life, A (USA).png"
+    },
+    {
+        "name":  "Bust-A-Move \u002799 (USA)",
+        "description":  "Bust-A-Move \u002799 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bust-A-Move \u002799 (USA).png"
+    },
+    {
+        "name":  "Bust-A-Move 2 - Arcade Edition (USA)",
+        "description":  "Bust-A-Move 2 - Arcade Edition (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Bust-A-Move 2 - Arcade Edition (USA).png"
+    },
+    {
+        "name":  "California Speed (USA)",
+        "description":  "California Speed (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/California Speed (USA).png"
+    },
+    {
+        "name":  "Carmageddon 64 (USA)",
+        "description":  "Carmageddon 64 (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Carmageddon 64 (USA).PNG.png"
+    },
+    {
+        "name":  "Castlevania (USA)",
+        "description":  "Castlevania (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Castlevania (USA) (Rev B).png"
+    },
+    {
+        "name":  "Castlevania - Legacy of Darkness (USA)",
+        "description":  "Castlevania - Legacy of Darkness (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Castlevania - Legacy of Darkness (USA).png"
+    },
+    {
+        "name":  "Centre Court Tennis (Europe)",
+        "description":  "Centre Court Tennis (Europe)",
+        "manufacturer":  "BigBen Interactive",
+        "year":  "1999",
+        "genre":  "Sports/Tennis",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Centre Court Tennis (Europe).png"
+    },
+    {
+        "name":  "Chameleon Twist (USA)",
+        "description":  "Chameleon Twist (USA)",
+        "manufacturer":  "SunSoft",
+        "year":  "1997",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Chameleon Twist (USA).PNG.png"
+    },
+    {
+        "name":  "Chameleon Twist 2 (USA)",
+        "description":  "Chameleon Twist 2 (USA)",
+        "manufacturer":  "SunSoft",
+        "year":  "1997",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Chameleon Twist 2 (USA).PNG.png"
+    },
+    {
+        "name":  "Charlie Blast\u0027s Territory (USA)",
+        "description":  "Charlie Blast\u0027s Territory (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Charlie Blast\u0027s Territory (USA).PNG.png"
+    },
+    {
+        "name":  "Chopper Attack (USA)",
+        "description":  "Chopper Attack (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Chopper Attack (USA).png"
+    },
+    {
+        "name":  "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)",
+        "description":  "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)",
+        "manufacturer":  "Locomotive Corporation",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Chou Kuukan Nighter Pro Yakyuu King (Japan)",
+        "description":  "Chou Kuukan Nighter Pro Yakyuu King (Japan)",
+        "manufacturer":  "Genki",
+        "year":  "1996",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)",
+        "description":  "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)",
+        "manufacturer":  "Genki",
+        "year":  "1999",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Clay Fighter - Sculptor\u0027s Cut (USA)",
+        "description":  "Clay Fighter - Sculptor\u0027s Cut (USA)",
+        "manufacturer":  "Interplay",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Clay Fighter - Sculptor\u0027s Cut (USA).png"
+    },
+    {
+        "name":  "Clay Fighter 63 1-3 (USA)",
+        "description":  "Clay Fighter 63 1-3 (USA)",
+        "manufacturer":  "Interplay",
+        "year":  "1997",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Clay Fighter 63 1-3 (USA).PNG.png"
+    },
+    {
+        "name":  "Command \u0026 Conquer (USA)",
+        "description":  "Command \u0026 Conquer (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Strategy",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Command \u0026 Conquer (USA).png"
+    },
+    {
+        "name":  "Conker\u0027s Bad Fur Day (USA)",
+        "description":  "Conker\u0027s Bad Fur Day (USA)",
+        "manufacturer":  "Rare Ltd.",
+        "year":  "2001",
+        "genre":  "Platform",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Conker\u0027s Bad Fur Day (USA).png"
+    },
+    {
+        "name":  "Cruis\u0027n Exotica (USA)",
+        "description":  "Cruis\u0027n Exotica (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Cruis\u0027n Exotica (USA).PNG.png"
+    },
+    {
+        "name":  "Cruis\u0027n USA (USA)",
+        "description":  "Cruis\u0027n USA (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1996",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Cruis\u0027n USA (USA) (Rev B).png"
+    },
+    {
+        "name":  "Cruis\u0027n World (USA)",
+        "description":  "Cruis\u0027n World (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Cruis\u0027n World (USA).png"
+    },
+    {
+        "name":  "CyberTiger (USA)",
+        "description":  "CyberTiger (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "2000",
+        "genre":  "Sports/Golf",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/CyberTiger (USA).PNG.png"
+    },
+    {
+        "name":  "Dance Dance Revolution - Disney Dancing Museum (Japan)",
+        "description":  "Dance Dance Revolution - Disney Dancing Museum (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "2000",
+        "genre":  "Rhythm",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Dark Rift (USA)",
+        "description":  "Dark Rift (USA)",
+        "manufacturer":  "Vic Tokai",
+        "year":  "1997",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Dark Rift (USA).PNG.png"
+    },
+    {
+        "name":  "Deadly Arts (USA)",
+        "description":  "Deadly Arts (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Deadly Arts (USA).PNG.png"
+    },
+    {
+        "name":  "Densha de Go! 64 (Japan)",
+        "description":  "Densha de Go! 64 (Japan)",
+        "manufacturer":  "AI",
+        "year":  "1999",
+        "genre":  "Simulation",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Destruction Derby 64 (USA)",
+        "description":  "Destruction Derby 64 (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Destruction Derby 64 (USA).PNG.png"
+    },
+    {
+        "name":  "Dezaemon 3D (Japan)",
+        "description":  "Dezaemon 3D (Japan)",
+        "manufacturer":  "Athena",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Diddy Kong Racing (USA)",
+        "description":  "Diddy Kong Racing (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Diddy Kong Racing (USA) (En,Fr) (Rev A).PNG.png"
+    },
+    {
+        "name":  "Donald Duck - Goin\u0027 Quackers (USA)",
+        "description":  "Donald Duck - Goin\u0027 Quackers (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Donald Duck - Goin\u0027 Quackers (USA) (En,Fr,De,Es,It).PNG.png"
+    },
+    {
+        "name":  "Donkey Kong 64 (USA)",
+        "description":  "Donkey Kong 64 (USA)",
+        "manufacturer":  "Rare Ltd.",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Donkey Kong 64 (USA).PNG.png"
+    },
+    {
+        "name":  "Doom 64 (USA)",
+        "description":  "Doom 64 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Doom 64 (USA) (Rev A).PNG.png"
+    },
+    {
+        "name":  "Doraemon - Nobita to 3tsu no Seireiseki (Japan)",
+        "description":  "Doraemon - Nobita to 3tsu no Seireiseki (Japan)",
+        "manufacturer":  "Epoch",
+        "year":  "1997",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Doraemon 2 - Nobita to Hikari no Shinden (Japan)",
+        "description":  "Doraemon 2 - Nobita to Hikari no Shinden (Japan)",
+        "manufacturer":  "Epoch",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Doraemon 3 - Nobita no Machi SOS! (Japan)",
+        "description":  "Doraemon 3 - Nobita no Machi SOS! (Japan)",
+        "manufacturer":  "Epoch",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Dr. Mario 64 (USA)",
+        "description":  "Dr. Mario 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2001",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Dr. Mario 64 (USA).png"
+    },
+    {
+        "name":  "Dual Heroes (USA)",
+        "description":  "Dual Heroes (USA)",
+        "manufacturer":  "Electro Brain",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Dual Heroes (USA).PNG.png"
+    },
+    {
+        "name":  "Duck Dodgers Starring Daffy Duck (USA)",
+        "description":  "Duck Dodgers Starring Daffy Duck (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).PNG.png"
+    },
+    {
+        "name":  "Duke Nukem - Zero Hour (USA)",
+        "description":  "Duke Nukem - Zero Hour (USA)",
+        "manufacturer":  "GT Interactive",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Duke Nukem - Zero Hour (USA).png"
+    },
+    {
+        "name":  "Duke Nukem 64 (USA)",
+        "description":  "Duke Nukem 64 (USA)",
+        "manufacturer":  "GT Interactive",
+        "year":  "1997",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Duke Nukem 64 (USA).png"
+    },
+    {
+        "name":  "Earthworm Jim 3D (USA)",
+        "description":  "Earthworm Jim 3D (USA)",
+        "manufacturer":  "Rockstar Games",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Earthworm Jim 3D (USA).PNG.png"
+    },
+    {
+        "name":  "ECW Hardcore Revolution (USA)",
+        "description":  "ECW Hardcore Revolution (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "2000",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/ECW Hardcore Revolution (USA).png"
+    },
+    {
+        "name":  "Eikou no Saint Andrews (Japan)",
+        "description":  "Eikou no Saint Andrews (Japan)",
+        "manufacturer":  "Seta Corporation",
+        "year":  "1996",
+        "genre":  "Sports/Golf",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Elmo\u0027s Letter Adventure (USA)",
+        "description":  "Elmo\u0027s Letter Adventure (USA)",
+        "manufacturer":  "NewKidCo",
+        "year":  "1999",
+        "genre":  "Miscellaneous",
+        "rating":  "ESRB - EC (Early Childhood)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Elmo\u0027s Letter Adventure (USA).png"
+    },
+    {
+        "name":  "Elmo\u0027s Number Journey (USA)",
+        "description":  "Elmo\u0027s Number Journey (USA)",
+        "manufacturer":  "NewKidCo",
+        "year":  "1999",
+        "genre":  "Miscellaneous",
+        "rating":  "ESRB - EC (Early Childhood)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Elmo\u0027s Number Journey (USA).png"
+    },
+    {
+        "name":  "Excitebike 64 (USA)",
+        "description":  "Excitebike 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Excitebike 64 (USA).PNG.png"
+    },
+    {
+        "name":  "Extreme-G (USA)",
+        "description":  "Extreme-G (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Extreme-G (USA).PNG.png"
+    },
+    {
+        "name":  "Extreme-G XG2 (USA)",
+        "description":  "Extreme-G XG2 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Extreme-G XG2 (USA).PNG.png"
+    },
+    {
+        "name":  "F-1 World Grand Prix (USA)",
+        "description":  "F-1 World Grand Prix (USA)",
+        "manufacturer":  "Video System",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/F-1 World Grand Prix (USA).PNG.png"
+    },
+    {
+        "name":  "F-1 World Grand Prix II (Europe)",
+        "description":  "F-1 World Grand Prix II (Europe)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/F-1 World Grand Prix II (Europe) (En,Fr,De,Es).PNG.png"
+    },
+    {
+        "name":  "F-Zero X (USA)",
+        "description":  "F-Zero X (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/F-Zero X (USA).PNG.png"
+    },
+    {
+        "name":  "F1 Pole Position 64 (USA)",
+        "description":  "F1 Pole Position 64 (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/F1 Pole Position 64 (USA) (En,Fr,De).png"
+    },
+    {
+        "name":  "F1 Racing Championship (Europe)",
+        "description":  "F1 Racing Championship (Europe)",
+        "manufacturer":  "Ubisoft",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/F1 Racing Championship (Europe) (En,Fr,De,Es,It).png"
+    },
+    {
+        "name":  "Famista 64 (Japan)",
+        "description":  "Famista 64 (Japan)",
+        "manufacturer":  "Namco",
+        "year":  "1997",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "FIFA - Road to World Cup 98 (USA)",
+        "description":  "FIFA - Road to World Cup 98 (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "1997",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png"
+    },
+    {
+        "name":  "FIFA 99 (USA)",
+        "description":  "FIFA 99 (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "1998",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).png"
+    },
+    {
+        "name":  "FIFA Soccer 64 (USA)",
+        "description":  "FIFA Soccer 64 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1997",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/FIFA Soccer 64 (USA) (En,Fr,De).png"
+    },
+    {
+        "name":  "Fighter Destiny 2 (USA)",
+        "description":  "Fighter Destiny 2 (USA)",
+        "manufacturer":  "Ocean",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Fighter Destiny 2 (USA).png"
+    },
+    {
+        "name":  "Fighters Destiny (USA)",
+        "description":  "Fighters Destiny (USA)",
+        "manufacturer":  "Ocean",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Fighters Destiny (USA).png"
+    },
+    {
+        "name":  "Fighting Force 64 (USA)",
+        "description":  "Fighting Force 64 (USA)",
+        "manufacturer":  "Crave",
+        "year":  "1999",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Fighting Force 64 (USA).png"
+    },
+    {
+        "name":  "Flying Dragon (USA)",
+        "description":  "Flying Dragon (USA)",
+        "manufacturer":  "Natsume",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Flying Dragon (USA).png"
+    },
+    {
+        "name":  "Forsaken 64 (USA)",
+        "description":  "Forsaken 64 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Forsaken 64 (USA).png"
+    },
+    {
+        "name":  "Fox Sports College Hoops \u002799 (USA)",
+        "description":  "Fox Sports College Hoops \u002799 (USA)",
+        "manufacturer":  "Fox Interactive",
+        "year":  "1998",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Fox Sports College Hoops \u002799 (USA).png"
+    },
+    {
+        "name":  "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)",
+        "description":  "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)",
+        "manufacturer":  "ChunSoft",
+        "year":  "2000",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Gauntlet Legends (USA)",
+        "description":  "Gauntlet Legends (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Gauntlet Legends (USA).png"
+    },
+    {
+        "name":  "Gex 3 - Deep Cover Gecko (USA)",
+        "description":  "Gex 3 - Deep Cover Gecko (USA)",
+        "manufacturer":  "Crave",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Gex 3 - Deep Cover Gecko (USA).png"
+    },
+    {
+        "name":  "Gex 64 - Enter the Gecko (USA)",
+        "description":  "Gex 64 - Enter the Gecko (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Gex 64 - Enter the Gecko (USA).png"
+    },
+    {
+        "name":  "Glover (USA)",
+        "description":  "Glover (USA)",
+        "manufacturer":  "Hasbro Interactive",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Glover (USA).png"
+    },
+    {
+        "name":  "Goemon\u0027s Great Adventure (USA)",
+        "description":  "Goemon\u0027s Great Adventure (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Goemon\u0027s Great Adventure (USA).png"
+    },
+    {
+        "name":  "Golden Nugget 64 (USA)",
+        "description":  "Golden Nugget 64 (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "1998",
+        "genre":  "Casino",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Golden Nugget 64 (USA).png"
+    },
+    {
+        "name":  "GT64 - Championship Edition (USA)",
+        "description":  "GT64 - Championship Edition (USA)",
+        "manufacturer":  "Ocean",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/GT64 - Championship Edition (USA).png"
+    },
+    {
+        "name":  "Harukanaru Augusta - Masters \u002798 (Japan)",
+        "description":  "Harukanaru Augusta - Masters \u002798 (Japan)",
+        "manufacturer":  "T\u0026E Soft",
+        "year":  "1997",
+        "genre":  "Sports/Golf",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Harvest Moon 64 (USA)",
+        "description":  "Harvest Moon 64 (USA)",
+        "manufacturer":  "Natsume",
+        "year":  "1999",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Harvest Moon 64 (USA).png"
+    },
+    {
+        "name":  "Hercules - The Legendary Journeys (USA)",
+        "description":  "Hercules - The Legendary Journeys (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Hercules - The Legendary Journeys (USA).png"
+    },
+    {
+        "name":  "Hexen (USA)",
+        "description":  "Hexen (USA)",
+        "manufacturer":  "GT Interactive",
+        "year":  "1997",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Hexen (USA).png"
+    },
+    {
+        "name":  "Hey You, Pikachu! (USA)",
+        "description":  "Hey You, Pikachu! (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Hey You, Pikachu! (USA).png"
+    },
+    {
+        "name":  "Hot Wheels - Turbo Racing (USA)",
+        "description":  "Hot Wheels - Turbo Racing (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Hot Wheels - Turbo Racing (USA).png"
+    },
+    {
+        "name":  "HSV Adventure Racing! (Australia)",
+        "description":  "HSV Adventure Racing! (Australia)",
+        "manufacturer":  "Paradigm Entertainment",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Hybrid Heaven (USA)",
+        "description":  "Hybrid Heaven (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Hybrid Heaven (USA).png"
+    },
+    {
+        "name":  "Hydro Thunder (USA)",
+        "description":  "Hydro Thunder (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Water",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Hydro Thunder (USA).png"
+    },
+    {
+        "name":  "Iggy\u0027s Reckin\u0027 Balls (USA)",
+        "description":  "Iggy\u0027s Reckin\u0027 Balls (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Iggy\u0027s Reckin\u0027 Balls (USA).png"
+    },
+    {
+        "name":  "In-Fisherman - Bass Hunter 64 (USA)",
+        "description":  "In-Fisherman - Bass Hunter 64 (USA)",
+        "manufacturer":  "Take-Two Interactive",
+        "year":  "1999",
+        "genre":  "Sports/Fishing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/In-Fisherman - Bass Hunter 64 (USA).png"
+    },
+    {
+        "name":  "Indiana Jones and the Infernal Machine (USA)",
+        "description":  "Indiana Jones and the Infernal Machine (USA)",
+        "manufacturer":  "LucasArts",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Indiana Jones and the Infernal Machine (USA).png"
+    },
+    {
+        "name":  "Indy Racing 2000 (USA)",
+        "description":  "Indy Racing 2000 (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Indy Racing 2000 (USA).png"
+    },
+    {
+        "name":  "International Superstar Soccer \u002798 (USA)",
+        "description":  "International Superstar Soccer \u002798 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/International Superstar Soccer \u002798 (USA).png"
+    },
+    {
+        "name":  "International Superstar Soccer 2000 (USA)",
+        "description":  "International Superstar Soccer 2000 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "2000",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/International Superstar Soccer 2000 (USA) (En,Es).png"
+    },
+    {
+        "name":  "International Superstar Soccer 64 (USA)",
+        "description":  "International Superstar Soccer 64 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1997",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/International Superstar Soccer 64 (USA).png"
+    },
+    {
+        "name":  "International Track \u0026 Field 2000 (USA)",
+        "description":  "International Track \u0026 Field 2000 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "2000",
+        "genre":  "Sports/Track \u0026 Field",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/International Track \u0026 Field 2000 (USA).png"
+    },
+    {
+        "name":  "J.League Dynamite Soccer 64 (Japan)",
+        "description":  "J.League Dynamite Soccer 64 (Japan)",
+        "manufacturer":  "A-Max",
+        "year":  "1997",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "J.League Eleven Beat 1997 (Japan)",
+        "description":  "J.League Eleven Beat 1997 (Japan)",
+        "manufacturer":  "Hudson",
+        "year":  "1997",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "J.League Live 64 (Japan)",
+        "description":  "J.League Live 64 (Japan)",
+        "manufacturer":  "Electronic Arts Victor",
+        "year":  "1997",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jangou Simulation Mahjong Dou 64 (Japan)",
+        "description":  "Jangou Simulation Mahjong Dou 64 (Japan)",
+        "manufacturer":  "Art",
+        "year":  "1997",
+        "genre":  "Mahjong",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jeopardy! (USA)",
+        "description":  "Jeopardy! (USA)",
+        "manufacturer":  "GameTek",
+        "year":  "1998",
+        "genre":  "Game Show",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Jeopardy! (USA).png"
+    },
+    {
+        "name":  "Jeremy McGrath Supercross 2000 (USA)",
+        "description":  "Jeremy McGrath Supercross 2000 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "2000",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Jeremy McGrath Supercross 2000 (USA).png"
+    },
+    {
+        "name":  "Jet Force Gemini (USA)",
+        "description":  "Jet Force Gemini (USA)",
+        "manufacturer":  "Rare Ltd.",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Jet Force Gemini (USA).png"
+    },
+    {
+        "name":  "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)",
+        "description":  "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jikkyou J.League Perfect Striker (Japan)",
+        "description":  "Jikkyou J.League Perfect Striker (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1996",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jikkyou Powerful Pro Yakyuu 2000 (Japan)",
+        "description":  "Jikkyou Powerful Pro Yakyuu 2000 (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "2000",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jikkyou Powerful Pro Yakyuu 4 (Japan)",
+        "description":  "Jikkyou Powerful Pro Yakyuu 4 (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1997",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jikkyou Powerful Pro Yakyuu 5 (Japan)",
+        "description":  "Jikkyou Powerful Pro Yakyuu 5 (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jikkyou Powerful Pro Yakyuu 6 (Japan)",
+        "description":  "Jikkyou Powerful Pro Yakyuu 6 (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan)",
+        "description":  "Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "2001",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "John Romero\u0027s Daikatana (USA)",
+        "description":  "John Romero\u0027s Daikatana (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/John Romero\u0027s Daikatana (USA).png"
+    },
+    {
+        "name":  "Ken Griffey Jr.\u0027s Slugfest (USA)",
+        "description":  "Ken Griffey Jr.\u0027s Slugfest (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Sports/Baseball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Ken Griffey Jr.\u0027s Slugfest (USA).png"
+    },
+    {
+        "name":  "Killer Instinct Gold (USA)",
+        "description":  "Killer Instinct Gold (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1996",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Killer Instinct Gold (USA) (Rev B).png"
+    },
+    {
+        "name":  "Kirby 64 - The Crystal Shards (USA)",
+        "description":  "Kirby 64 - The Crystal Shards (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Kirby 64 - The Crystal Shards (USA).png"
+    },
+    {
+        "name":  "Knife Edge - Nose Gunner (USA)",
+        "description":  "Knife Edge - Nose Gunner (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Knife Edge - Nose Gunner (USA).png"
+    },
+    {
+        "name":  "Knockout Kings 2000 (USA)",
+        "description":  "Knockout Kings 2000 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1999",
+        "genre":  "Sports/Boxing",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Knockout Kings 2000 (USA).png"
+    },
+    {
+        "name":  "Kobe Bryant\u0027s NBA Courtside (USA)",
+        "description":  "Kobe Bryant\u0027s NBA Courtside (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Kobe Bryant\u0027s NBA Courtside (USA).png"
+    },
+    {
+        "name":  "Last Legion UX (Japan)",
+        "description":  "Last Legion UX (Japan)",
+        "manufacturer":  "Yuke\u0027s",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Legend of Zelda, The - Majora\u0027s Mask (USA)",
+        "description":  "Legend of Zelda, The - Majora\u0027s Mask (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Legend of Zelda, The - Majora\u0027s Mask (USA).png"
+    },
+    {
+        "name":  "Legend of Zelda, The - Ocarina of Time (USA)",
+        "description":  "Legend of Zelda, The - Ocarina of Time (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).png"
+    },
+    {
+        "name":  "LEGO Racers (USA)",
+        "description":  "LEGO Racers (USA)",
+        "manufacturer":  "Lego Media",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png"
+    },
+    {
+        "name":  "Lode Runner 3-D (USA)",
+        "description":  "Lode Runner 3-D (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Lode Runner 3-D (USA).png"
+    },
+    {
+        "name":  "Mace - The Dark Age (USA)",
+        "description":  "Mace - The Dark Age (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mace - The Dark Age (USA).png"
+    },
+    {
+        "name":  "Madden Football 64 (USA)",
+        "description":  "Madden Football 64 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1997",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Madden Football 64 (USA).png"
+    },
+    {
+        "name":  "Madden NFL 2000 (USA)",
+        "description":  "Madden NFL 2000 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1999",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Madden NFL 2000 (USA).png"
+    },
+    {
+        "name":  "Madden NFL 2001 (USA)",
+        "description":  "Madden NFL 2001 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "2000",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Madden NFL 2001 (USA).png"
+    },
+    {
+        "name":  "Madden NFL 2002 (USA)",
+        "description":  "Madden NFL 2002 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "2001",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Madden NFL 2002 (USA).png"
+    },
+    {
+        "name":  "Madden NFL 99 (USA)",
+        "description":  "Madden NFL 99 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1998",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Madden NFL 99 (USA).png"
+    },
+    {
+        "name":  "Magical Tetris Challenge (USA)",
+        "description":  "Magical Tetris Challenge (USA)",
+        "manufacturer":  "Capcom",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Magical Tetris Challenge (USA).png"
+    },
+    {
+        "name":  "Mahjong Master (Japan)",
+        "description":  "Mahjong Master (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1996",
+        "genre":  "Mahjong",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Major League Baseball featuring Ken Griffey Jr. (USA)",
+        "description":  "Major League Baseball featuring Ken Griffey Jr. (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Sports/Baseball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Major League Baseball featuring Ken Griffey Jr. (USA).png"
+    },
+    {
+        "name":  "Mario Golf (USA)",
+        "description":  "Mario Golf (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Sports/Golf",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mario Golf (USA).png"
+    },
+    {
+        "name":  "Mario Kart 64 (USA)",
+        "description":  "Mario Kart 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mario Kart 64 (USA).png"
+    },
+    {
+        "name":  "Mario no Photopie (Japan)",
+        "description":  "Mario no Photopie (Japan)",
+        "manufacturer":  "Tokyo Electron",
+        "year":  "1998",
+        "genre":  "Miscellaneous",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Mario Party (USA)",
+        "description":  "Mario Party (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Party",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mario Party (USA).png"
+    },
+    {
+        "name":  "Mario Party 2 (USA)",
+        "description":  "Mario Party 2 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Party",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mario Party 2 (USA).png"
+    },
+    {
+        "name":  "Mario Party 3 (USA)",
+        "description":  "Mario Party 3 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2001",
+        "genre":  "Pinball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mario Party 3 (USA).png"
+    },
+    {
+        "name":  "Mario Tennis (USA)",
+        "description":  "Mario Tennis (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Sports/Tennis",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mario Tennis (USA).png"
+    },
+    {
+        "name":  "Mega Man 64 (USA)",
+        "description":  "Mega Man 64 (USA)",
+        "manufacturer":  "Capcom",
+        "year":  "2001",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mega Man 64 (USA).png"
+    },
+    {
+        "name":  "Mia Hamm Soccer 64 (USA)",
+        "description":  "Mia Hamm Soccer 64 (USA)",
+        "manufacturer":  "Silicon Dreams",
+        "year":  "2000",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mia Hamm Soccer 64 (USA) (En,Es).png"
+    },
+    {
+        "name":  "Michael Owen\u0027s World League Soccer 2000 (Europe)",
+        "description":  "Michael Owen\u0027s World League Soccer 2000 (Europe)",
+        "manufacturer":  "Silicon Dreams",
+        "year":  "2000",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Mickey\u0027s Speedway USA (USA)",
+        "description":  "Mickey\u0027s Speedway USA (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mickey\u0027s Speedway USA (USA).png"
+    },
+    {
+        "name":  "Micro Machines 64 Turbo (USA)",
+        "description":  "Micro Machines 64 Turbo (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Micro Machines 64 Turbo (USA).png"
+    },
+    {
+        "name":  "Midway\u0027s Greatest Arcade Hits - Volume 1 (USA)",
+        "description":  "Midway\u0027s Greatest Arcade Hits - Volume 1 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Miscellaneous",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Mike Piazza\u0027s StrikeZone (USA)",
+        "description":  "Mike Piazza\u0027s StrikeZone (USA)",
+        "manufacturer":  "GT Interactive",
+        "year":  "1998",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mike Piazza\u0027s StrikeZone (USA).png"
+    },
+    {
+        "name":  "Milo\u0027s Astro Lanes (USA)",
+        "description":  "Milo\u0027s Astro Lanes (USA)",
+        "manufacturer":  "Crave",
+        "year":  "1998",
+        "genre":  "Sports/Bowling",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Milo\u0027s Astro Lanes (USA).png"
+    },
+    {
+        "name":  "Mini Racers (Japan) (Proto)",
+        "description":  "Mini Racers (Japan) (Proto)",
+        "manufacturer":  "Looking Glass Studios",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Mischief Makers (USA)",
+        "description":  "Mischief Makers (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mischief Makers (USA).png"
+    },
+    {
+        "name":  "Mission Impossible (USA)",
+        "description":  "Mission Impossible (USA)",
+        "manufacturer":  "Ocean",
+        "year":  "1998",
+        "genre":  "Adventure",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mission Impossible (USA).png"
+    },
+    {
+        "name":  "Monaco Grand Prix (USA)",
+        "description":  "Monaco Grand Prix (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Monaco Grand Prix (USA).png"
+    },
+    {
+        "name":  "Monopoly (USA)",
+        "description":  "Monopoly (USA)",
+        "manufacturer":  "Hasbro Interactive",
+        "year":  "1999",
+        "genre":  "Board Games",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Monopoly (USA).png"
+    },
+    {
+        "name":  "Monster Truck Madness 64 (USA)",
+        "description":  "Monster Truck Madness 64 (USA)",
+        "manufacturer":  "Rockstar Games",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Monster Truck Madness 64 (USA).png"
+    },
+    {
+        "name":  "Mortal Kombat 4 (USA)",
+        "description":  "Mortal Kombat 4 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mortal Kombat 4 (USA).png"
+    },
+    {
+        "name":  "Mortal Kombat Mythologies - Sub-Zero (USA)",
+        "description":  "Mortal Kombat Mythologies - Sub-Zero (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Platform",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mortal Kombat Mythologies - Sub-Zero (USA).png"
+    },
+    {
+        "name":  "Mortal Kombat Trilogy (USA)",
+        "description":  "Mortal Kombat Trilogy (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1996",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mortal Kombat Trilogy (USA) (Rev B).png"
+    },
+    {
+        "name":  "MRC - Multi Racing Championship (USA)",
+        "description":  "MRC - Multi Racing Championship (USA)",
+        "manufacturer":  "Ocean",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/MRC - Multi Racing Championship (USA).png"
+    },
+    {
+        "name":  "Ms. Pac-Man - Maze Madness (USA)",
+        "description":  "Ms. Pac-Man - Maze Madness (USA)",
+        "manufacturer":  "Namco",
+        "year":  "2000",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Ms. Pac-Man - Maze Madness (USA).png"
+    },
+    {
+        "name":  "Mystical Ninja Starring Goemon (USA)",
+        "description":  "Mystical Ninja Starring Goemon (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Mystical Ninja Starring Goemon (USA).png"
+    },
+    {
+        "name":  "Nagano Winter Olympics \u002798 (USA)",
+        "description":  "Nagano Winter Olympics \u002798 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Sports/Olympic",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Nagano Winter Olympics \u002798 (USA).png"
+    },
+    {
+        "name":  "Namco Museum 64 (USA)",
+        "description":  "Namco Museum 64 (USA)",
+        "manufacturer":  "Namco",
+        "year":  "1999",
+        "genre":  "Miscellaneous",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Namco Museum 64 (USA).png"
+    },
+    {
+        "name":  "NASCAR 2000 (USA)",
+        "description":  "NASCAR 2000 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NASCAR 2000 (USA).png"
+    },
+    {
+        "name":  "NASCAR 99 (USA)",
+        "description":  "NASCAR 99 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NASCAR 99 (USA).png"
+    },
+    {
+        "name":  "NBA Courtside 2 featuring Kobe Bryant (USA)",
+        "description":  "NBA Courtside 2 featuring Kobe Bryant (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Courtside 2 featuring Kobe Bryant (USA).png"
+    },
+    {
+        "name":  "NBA Hangtime (USA)",
+        "description":  "NBA Hangtime (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Hangtime (USA).png"
+    },
+    {
+        "name":  "NBA in the Zone \u002798 (USA)",
+        "description":  "NBA in the Zone \u002798 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA in the Zone \u002798 (USA).png"
+    },
+    {
+        "name":  "NBA in the Zone \u002799 (USA)",
+        "description":  "NBA in the Zone \u002799 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA in the Zone \u002799 (USA).png"
+    },
+    {
+        "name":  "NBA in the Zone 2000 (USA)",
+        "description":  "NBA in the Zone 2000 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "2000",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA in the Zone 2000 (USA).png"
+    },
+    {
+        "name":  "NBA Jam 2000 (USA)",
+        "description":  "NBA Jam 2000 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Jam 2000 (USA).png"
+    },
+    {
+        "name":  "NBA Jam 99 (USA)",
+        "description":  "NBA Jam 99 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Jam 99 (USA).png"
+    },
+    {
+        "name":  "NBA Live 2000 (USA)",
+        "description":  "NBA Live 2000 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "2000",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Live 2000 (USA) (En,Fr,De,Es).png"
+    },
+    {
+        "name":  "NBA Live 99 (USA)",
+        "description":  "NBA Live 99 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1998",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Live 99 (USA) (En,Fr,De,Es,It).png"
+    },
+    {
+        "name":  "NBA Showtime - NBA on NBC (USA)",
+        "description":  "NBA Showtime - NBA on NBC (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Sports/Basketball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NBA Showtime - NBA on NBC (USA).png"
+    },
+    {
+        "name":  "Neon Genesis Evangelion (Japan)",
+        "description":  "Neon Genesis Evangelion (Japan)",
+        "manufacturer":  "Bandai",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "New Tetris, The (USA)",
+        "description":  "New Tetris, The (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/New Tetris, The (USA).png"
+    },
+    {
+        "name":  "NFL Blitz (USA)",
+        "description":  "NFL Blitz (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Blitz (USA).png"
+    },
+    {
+        "name":  "NFL Blitz - Special Edition (USA)",
+        "description":  "NFL Blitz - Special Edition (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2001",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Blitz - Special Edition (USA).png"
+    },
+    {
+        "name":  "NFL Blitz 2000 (USA)",
+        "description":  "NFL Blitz 2000 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Blitz 2000 (USA).png"
+    },
+    {
+        "name":  "NFL Blitz 2001 (USA)",
+        "description":  "NFL Blitz 2001 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Blitz 2001 (USA).png"
+    },
+    {
+        "name":  "NFL Quarterback Club 2000 (USA)",
+        "description":  "NFL Quarterback Club 2000 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Quarterback Club 2000 (USA).png"
+    },
+    {
+        "name":  "NFL Quarterback Club 2001 (USA)",
+        "description":  "NFL Quarterback Club 2001 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "2000",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Quarterback Club 2001 (USA).png"
+    },
+    {
+        "name":  "NFL Quarterback Club 98 (USA)",
+        "description":  "NFL Quarterback Club 98 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1997",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Quarterback Club 98 (USA).png"
+    },
+    {
+        "name":  "NFL Quarterback Club 99 (USA)",
+        "description":  "NFL Quarterback Club 99 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Sports/Football",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NFL Quarterback Club 99 (USA).png"
+    },
+    {
+        "name":  "NHL 99 (USA)",
+        "description":  "NHL 99 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1998",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NHL 99 (USA).png"
+    },
+    {
+        "name":  "NHL Blades of Steel \u002799 (USA)",
+        "description":  "NHL Blades of Steel \u002799 (USA)",
+        "manufacturer":  "Konami",
+        "year":  "1999",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NHL Blades of Steel \u002799 (USA).png"
+    },
+    {
+        "name":  "NHL Breakaway 98 (USA)",
+        "description":  "NHL Breakaway 98 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NHL Breakaway 98 (USA).png"
+    },
+    {
+        "name":  "NHL Breakaway 99 (USA)",
+        "description":  "NHL Breakaway 99 (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/NHL Breakaway 99 (USA).png"
+    },
+    {
+        "name":  "Nightmare Creatures (USA)",
+        "description":  "Nightmare Creatures (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1998",
+        "genre":  "Adventure",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Nightmare Creatures (USA).png"
+    },
+    {
+        "name":  "Nintama Rantarou 64 Game Gallery (Japan)",
+        "description":  "Nintama Rantarou 64 Game Gallery (Japan)",
+        "manufacturer":  "Culture Brain",
+        "year":  "2000",
+        "genre":  "Mini-Games",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Nuclear Strike 64 (USA)",
+        "description":  "Nuclear Strike 64 (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Nuclear Strike 64 (USA).png"
+    },
+    {
+        "name":  "O.D.T. (Europe) (Proto)",
+        "description":  "O.D.T. (Europe) (Proto)",
+        "manufacturer":  "FDI",
+        "year":  "1998",
+        "genre":  "Adventure",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Off Road Challenge (USA)",
+        "description":  "Off Road Challenge (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Off Road Challenge (USA).png"
+    },
+    {
+        "name":  "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+        "description":  "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+        "manufacturer":  "Atlus Co.",
+        "year":  "2000",
+        "genre":  "Strategy",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Ogre Battle 64 - Person of Lordly Caliber (USA).png"
+    },
+    {
+        "name":  "Olympic Hockey 98 (USA)",
+        "description":  "Olympic Hockey 98 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Paper Mario (USA)",
+        "description":  "Paper Mario (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2001",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Paper Mario (USA).png"
+    },
+    {
+        "name":  "Paperboy (USA)",
+        "description":  "Paperboy (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Paperboy (USA).png"
+    },
+    {
+        "name":  "Penny Racers (USA)",
+        "description":  "Penny Racers (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Penny Racers (USA).png"
+    },
+    {
+        "name":  "Perfect Dark (USA)",
+        "description":  "Perfect Dark (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Perfect Dark (USA) (Rev A).png"
+    },
+    {
+        "name":  "PGA European Tour (USA)",
+        "description":  "PGA European Tour (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "2000",
+        "genre":  "Sports/Golf",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/PGA European Tour (USA).png"
+    },
+    {
+        "name":  "Pilotwings 64 (USA)",
+        "description":  "Pilotwings 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1996",
+        "genre":  "Simulation",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Pilotwings 64 (USA).png"
+    },
+    {
+        "name":  "Pokemon Puzzle League (USA)",
+        "description":  "Pokemon Puzzle League (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Pokemon Puzzle League (USA).png"
+    },
+    {
+        "name":  "Pokemon Snap (USA)",
+        "description":  "Pokemon Snap (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Pokemon Snap (USA).png"
+    },
+    {
+        "name":  "Pokemon Stadium (USA)",
+        "description":  "Pokemon Stadium (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Pokemon Stadium (USA).png"
+    },
+    {
+        "name":  "Pokemon Stadium 2 (USA)",
+        "description":  "Pokemon Stadium 2 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2001",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Pokemon Stadium 2 (USA).png"
+    },
+    {
+        "name":  "Polaris SnoCross (USA)",
+        "description":  "Polaris SnoCross (USA)",
+        "manufacturer":  "Vatical Entertainment",
+        "year":  "2000",
+        "genre":  "Water",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Polaris SnoCross (USA).png"
+    },
+    {
+        "name":  "Power League 64 (Japan)",
+        "description":  "Power League 64 (Japan)",
+        "manufacturer":  "Hudson",
+        "year":  "1997",
+        "genre":  "Sports/Baseball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Power Rangers - Lightspeed Rescue (USA)",
+        "description":  "Power Rangers - Lightspeed Rescue (USA)",
+        "manufacturer":  "THQ",
+        "year":  "2000",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Power Rangers - Lightspeed Rescue (USA).png"
+    },
+    {
+        "name":  "Powerpuff Girls, The - Chemical X-Traction (USA)",
+        "description":  "Powerpuff Girls, The - Chemical X-Traction (USA)",
+        "manufacturer":  "Bam Entertainment",
+        "year":  "2001",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Powerpuff Girls, The - Chemical X-Traction (USA).png"
+    },
+    {
+        "name":  "Premier Manager 64 (Europe)",
+        "description":  "Premier Manager 64 (Europe)",
+        "manufacturer":  "Gremlin Interactive",
+        "year":  "1999",
+        "genre":  "Sports/Soccer",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Premier Manager 64 (Europe).png"
+    },
+    {
+        "name":  "Pro Mahjong Kiwame 64 (Japan)",
+        "description":  "Pro Mahjong Kiwame 64 (Japan)",
+        "manufacturer":  "Athena",
+        "year":  "1997",
+        "genre":  "Mahjong",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Puyo Puyo 4 - Puyo Puyon Party (Japan)",
+        "description":  "Puyo Puyo 4 - Puyo Puyon Party (Japan)",
+        "manufacturer":  "Compile",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Puyo Puyo Sun 64 (Japan)",
+        "description":  "Puyo Puyo Sun 64 (Japan)",
+        "manufacturer":  "Compile",
+        "year":  "1997",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Quake 64 (USA)",
+        "description":  "Quake 64 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Quake 64 (USA).png"
+    },
+    {
+        "name":  "Quake II (USA)",
+        "description":  "Quake II (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Quake II (USA).png"
+    },
+    {
+        "name":  "Quest 64 (USA)",
+        "description":  "Quest 64 (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1998",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Quest 64 (USA).png"
+    },
+    {
+        "name":  "Rakuga Kids (Europe)",
+        "description":  "Rakuga Kids (Europe)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rakuga Kids (Europe).png"
+    },
+    {
+        "name":  "Rally Challenge 2000 (USA)",
+        "description":  "Rally Challenge 2000 (USA)",
+        "manufacturer":  "SouthPeak Games",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rally Challenge 2000 (USA).png"
+    },
+    {
+        "name":  "Rampage - World Tour (USA)",
+        "description":  "Rampage - World Tour (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rampage - World Tour (USA).png"
+    },
+    {
+        "name":  "Rampage 2 - Universal Tour (USA)",
+        "description":  "Rampage 2 - Universal Tour (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rampage 2 - Universal Tour (USA).png"
+    },
+    {
+        "name":  "Rat Attack! (USA)",
+        "description":  "Rat Attack! (USA)",
+        "manufacturer":  "Mindscape Inc.",
+        "year":  "2000",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png"
+    },
+    {
+        "name":  "Rayman 2 - The Great Escape (USA)",
+        "description":  "Rayman 2 - The Great Escape (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png"
+    },
+    {
+        "name":  "Razor Freestyle Scooter (USA)",
+        "description":  "Razor Freestyle Scooter (USA)",
+        "manufacturer":  "Crave",
+        "year":  "2001",
+        "genre":  "Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Razor Freestyle Scooter (USA).png"
+    },
+    {
+        "name":  "Re-Volt (USA)",
+        "description":  "Re-Volt (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Re-Volt (USA).png"
+    },
+    {
+        "name":  "Ready 2 Rumble Boxing (USA)",
+        "description":  "Ready 2 Rumble Boxing (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Sports/Boxing",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Ready 2 Rumble Boxing (USA).png"
+    },
+    {
+        "name":  "Ready 2 Rumble Boxing - Round 2 (USA)",
+        "description":  "Ready 2 Rumble Boxing - Round 2 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Sports/Boxing",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Ready 2 Rumble Boxing - Round 2 (USA).png"
+    },
+    {
+        "name":  "Resident Evil 2 (USA)",
+        "description":  "Resident Evil 2 (USA)",
+        "manufacturer":  "Capcom",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Resident Evil 2 (USA) (Rev A).png"
+    },
+    {
+        "name":  "Road Rash 64 (USA)",
+        "description":  "Road Rash 64 (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Road Rash 64 (USA).png"
+    },
+    {
+        "name":  "Roadsters Trophy (USA)",
+        "description":  "Roadsters Trophy (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Roadsters Trophy (USA) (En,Fr,Es).png"
+    },
+    {
+        "name":  "Robotron 64 (USA)",
+        "description":  "Robotron 64 (USA)",
+        "manufacturer":  "Crave",
+        "year":  "1998",
+        "genre":  "Action",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Robotron 64 (USA).png"
+    },
+    {
+        "name":  "Rocket - Robot on Wheels (USA)",
+        "description":  "Rocket - Robot on Wheels (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rocket - Robot on Wheels (USA).png"
+    },
+    {
+        "name":  "RR64 - Ridge Racer 64 (USA)",
+        "description":  "RR64 - Ridge Racer 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/RR64 - Ridge Racer 64 (USA).png"
+    },
+    {
+        "name":  "Rugrats - Scavenger Hunt (USA)",
+        "description":  "Rugrats - Scavenger Hunt (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Board Games",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rugrats - Scavenger Hunt (USA).png"
+    },
+    {
+        "name":  "Rugrats in Paris - The Movie (USA)",
+        "description":  "Rugrats in Paris - The Movie (USA)",
+        "manufacturer":  "THQ",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rugrats in Paris - The Movie (USA).png"
+    },
+    {
+        "name":  "Rush 2 - Extreme Racing USA (USA)",
+        "description":  "Rush 2 - Extreme Racing USA (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Rush 2 - Extreme Racing USA (USA).png"
+    },
+    {
+        "name":  "S.C.A.R.S. (USA)",
+        "description":  "S.C.A.R.S. (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/S.C.A.R.S. (USA).png"
+    },
+    {
+        "name":  "San Francisco Rush - Extreme Racing (USA)",
+        "description":  "San Francisco Rush - Extreme Racing (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/San Francisco Rush - Extreme Racing (USA) (En,Fr,De).png"
+    },
+    {
+        "name":  "San Francisco Rush 2049 (USA)",
+        "description":  "San Francisco Rush 2049 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/San Francisco Rush 2049 (USA).png"
+    },
+    {
+        "name":  "Scooby-Doo! - Classic Creep Capers (USA)",
+        "description":  "Scooby-Doo! - Classic Creep Capers (USA)",
+        "manufacturer":  "THQ",
+        "year":  "2001",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Scooby-Doo! - Classic Creep Capers (USA).png"
+    },
+    {
+        "name":  "SD Hiryuu no Ken Densetsu (Japan)",
+        "description":  "SD Hiryuu no Ken Densetsu (Japan)",
+        "manufacturer":  "Culture Brain",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Shadow Man (USA)",
+        "description":  "Shadow Man (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Adventure",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Shadow Man (USA).png"
+    },
+    {
+        "name":  "Shadowgate 64 - Trials of the Four Towers (USA)",
+        "description":  "Shadowgate 64 - Trials of the Four Towers (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "1999",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).png"
+    },
+    {
+        "name":  "Shin Nippon Pro Wrestling Toukon Road - Brave Spirits (Japan)",
+        "description":  "Shin Nippon Pro Wrestling Toukon Road - Brave Spirits (Japan)",
+        "manufacturer":  "Yuke\u0027s",
+        "year":  "1998",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Shin Nippon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+        "description":  "Shin Nippon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+        "manufacturer":  "Yuke\u0027s",
+        "year":  "1998",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Snowboard Kids (USA)",
+        "description":  "Snowboard Kids (USA)",
+        "manufacturer":  "Atlus Co.",
+        "year":  "1998",
+        "genre":  "Sports/Snowboarding",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Snowboard Kids (USA).png"
+    },
+    {
+        "name":  "Snowboard Kids 2 (USA)",
+        "description":  "Snowboard Kids 2 (USA)",
+        "manufacturer":  "Atlus Co.",
+        "year":  "1999",
+        "genre":  "Sports/Snowboarding",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Snowboard Kids 2 (USA).png"
+    },
+    {
+        "name":  "South Park (USA)",
+        "description":  "South Park (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/South Park (USA).png"
+    },
+    {
+        "name":  "South Park - Chef\u0027s Luv Shack (USA)",
+        "description":  "South Park - Chef\u0027s Luv Shack (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Party",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/South Park - Chef\u0027s Luv Shack (USA).png"
+    },
+    {
+        "name":  "South Park Rally (USA)",
+        "description":  "South Park Rally (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/South Park Rally (USA).png"
+    },
+    {
+        "name":  "Space Invaders (USA)",
+        "description":  "Space Invaders (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1999",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Space Invaders (USA).png"
+    },
+    {
+        "name":  "SpaceStation Silicon Valley (USA)",
+        "description":  "SpaceStation Silicon Valley (USA)",
+        "manufacturer":  "Take-Two Interactive",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/SpaceStation Silicon Valley (USA).png"
+    },
+    {
+        "name":  "Spider-Man (USA)",
+        "description":  "Spider-Man (USA)",
+        "manufacturer":  "Activision",
+        "year":  "2000",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Spider-Man (USA).png"
+    },
+    {
+        "name":  "Star Fox 64 (USA)",
+        "description":  "Star Fox 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Star Fox 64 (USA) (Rev A).png"
+    },
+    {
+        "name":  "Star Soldier - Vanishing Earth (USA)",
+        "description":  "Star Soldier - Vanishing Earth (USA)",
+        "manufacturer":  "Electro Brain",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Star Soldier - Vanishing Earth (USA).png"
+    },
+    {
+        "name":  "Star Wars - Rogue Squadron (USA)",
+        "description":  "Star Wars - Rogue Squadron (USA)",
+        "manufacturer":  "LucasArts",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Star Wars - Rogue Squadron (USA).png"
+    },
+    {
+        "name":  "Star Wars - Shadows of the Empire (USA)",
+        "description":  "Star Wars - Shadows of the Empire (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Star Wars - Shadows of the Empire (USA) (Rev B).png"
+    },
+    {
+        "name":  "Star Wars Episode I - Battle for Naboo (USA)",
+        "description":  "Star Wars Episode I - Battle for Naboo (USA)",
+        "manufacturer":  "LucasArts",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Star Wars Episode I - Battle for Naboo (USA).png"
+    },
+    {
+        "name":  "Star Wars Episode I - Racer (USA)",
+        "description":  "Star Wars Episode I - Racer (USA)",
+        "manufacturer":  "LucasArts",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Star Wars Episode I - Racer (USA).png"
+    },
+    {
+        "name":  "StarCraft 64 (USA)",
+        "description":  "StarCraft 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "2000",
+        "genre":  "Strategy",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/StarCraft 64 (USA).png"
+    },
+    {
+        "name":  "Starshot - Space Circus Fever (USA)",
+        "description":  "Starshot - Space Circus Fever (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Starshot - Space Circus Fever (USA) (En,Fr,Es).png"
+    },
+    {
+        "name":  "Stunt Racer 64 (USA)",
+        "description":  "Stunt Racer 64 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Stunt Racer 64 (USA).png"
+    },
+    {
+        "name":  "Super B-Daman - Battle Phoenix 64 (Japan)",
+        "description":  "Super B-Daman - Battle Phoenix 64 (Japan)",
+        "manufacturer":  "Hudson",
+        "year":  "1998",
+        "genre":  "Mini-Games",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Super Bowling (USA)",
+        "description":  "Super Bowling (USA)",
+        "manufacturer":  "UFO Interactive",
+        "year":  "2001",
+        "genre":  "Sports/Bowling",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Super Bowling (USA).png"
+    },
+    {
+        "name":  "Super Mario 64 (USA)",
+        "description":  "Super Mario 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1996",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Super Mario 64 (USA).png"
+    },
+    {
+        "name":  "Super Robot Spirits (Japan)",
+        "description":  "Super Robot Spirits (Japan)",
+        "manufacturer":  "Vertex",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Super Smash Bros. (USA)",
+        "description":  "Super Smash Bros. (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Super Smash Bros. (USA).png"
+    },
+    {
+        "name":  "Supercross 2000 (USA)",
+        "description":  "Supercross 2000 (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "1999",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Jeremy McGrath Supercross 2000 (USA).png"
+    },
+    {
+        "name":  "Superman (USA)",
+        "description":  "Superman (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "1999",
+        "genre":  "Adventure",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Superman (USA) (En,Fr,Es).png"
+    },
+    {
+        "name":  "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)",
+        "description":  "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)",
+        "manufacturer":  "Konami",
+        "year":  "1998",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Sydney 2000 (USA) (Proto)",
+        "description":  "Sydney 2000 (USA) (Proto)",
+        "manufacturer":  "Eidos",
+        "year":  "2000",
+        "genre":  "Sports/Olympic",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Tarzan (USA)",
+        "description":  "Tarzan (USA)",
+        "manufacturer":  "Activision",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tarzan (USA).png"
+    },
+    {
+        "name":  "Taz Express (Europe)",
+        "description":  "Taz Express (Europe)",
+        "manufacturer":  "Infogrames",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Tetris 64 (Japan)",
+        "description":  "Tetris 64 (Japan)",
+        "manufacturer":  "Amtex",
+        "year":  "1998",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Tetrisphere (USA)",
+        "description":  "Tetrisphere (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1997",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tetrisphere (USA).png"
+    },
+    {
+        "name":  "Tigger\u0027s Honey Hunt (USA)",
+        "description":  "Tigger\u0027s Honey Hunt (USA)",
+        "manufacturer":  "NewKidCo",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tigger\u0027s Honey Hunt (USA).png"
+    },
+    {
+        "name":  "Tom and Jerry in Fists of Furry (USA)",
+        "description":  "Tom and Jerry in Fists of Furry (USA)",
+        "manufacturer":  "NewKidCo",
+        "year":  "2000",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tom and Jerry in Fists of Furry (USA).png"
+    },
+    {
+        "name":  "Tom Clancy\u0027s Rainbow Six (USA)",
+        "description":  "Tom Clancy\u0027s Rainbow Six (USA)",
+        "manufacturer":  "Red Storm Entertainment",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tom Clancy\u0027s Rainbow Six (USA).png"
+    },
+    {
+        "name":  "Tonic Trouble (USA)",
+        "description":  "Tonic Trouble (USA)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tonic Trouble (USA) (Rev A).png"
+    },
+    {
+        "name":  "Tony Hawk\u0027s Pro Skater (USA)",
+        "description":  "Tony Hawk\u0027s Pro Skater (USA)",
+        "manufacturer":  "Activision",
+        "year":  "2000",
+        "genre":  "Sports/Skating",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tony Hawk\u0027s Pro Skater (USA) (Rev A).png"
+    },
+    {
+        "name":  "Tony Hawk\u0027s Pro Skater 2 (USA)",
+        "description":  "Tony Hawk\u0027s Pro Skater 2 (USA)",
+        "manufacturer":  "Activision",
+        "year":  "2001",
+        "genre":  "Sports/Skating",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tony Hawk\u0027s Pro Skater 2 (USA).png"
+    },
+    {
+        "name":  "Tony Hawk\u0027s Pro Skater 3 (USA)",
+        "description":  "Tony Hawk\u0027s Pro Skater 3 (USA)",
+        "manufacturer":  "Activision",
+        "year":  "2002",
+        "genre":  "Sports/Skating",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Tony Hawk\u0027s Pro Skater 3 (USA).png"
+    },
+    {
+        "name":  "Top Gear Hyper-Bike (USA)",
+        "description":  "Top Gear Hyper-Bike (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "2000",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Top Gear Hyper-Bike (USA).png"
+    },
+    {
+        "name":  "Top Gear Overdrive (USA)",
+        "description":  "Top Gear Overdrive (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Top Gear Overdrive (USA).png"
+    },
+    {
+        "name":  "Top Gear Rally (USA)",
+        "description":  "Top Gear Rally (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Top Gear Rally (USA).png"
+    },
+    {
+        "name":  "Top Gear Rally 2 (USA)",
+        "description":  "Top Gear Rally 2 (USA)",
+        "manufacturer":  "Kemco",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Top Gear Rally 2 (USA).png"
+    },
+    {
+        "name":  "Toy Story 2 (USA)",
+        "description":  "Toy Story 2 (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Toy Story 2 (USA).png"
+    },
+    {
+        "name":  "Transformers - Beast Wars Transmetals (USA)",
+        "description":  "Transformers - Beast Wars Transmetals (USA)",
+        "manufacturer":  "Bam Entertainment",
+        "year":  "2000",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Transformers - Beast Wars Transmetals (USA).png"
+    },
+    {
+        "name":  "Triple Play 2000 (USA)",
+        "description":  "Triple Play 2000 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1999",
+        "genre":  "Sports/Baseball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Triple Play 2000 (USA).png"
+    },
+    {
+        "name":  "Tsumi to Batsu - Hoshi no Keishousha (Japan) (Translated En)",
+        "description":  "Tsumi to Batsu - Hoshi no Keishousha (Japan) (Translated En)",
+        "manufacturer":  "Treasure",
+        "year":  "2000",
+        "genre":  "Action",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Turok - Dinosaur Hunter (USA)",
+        "description":  "Turok - Dinosaur Hunter (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1997",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Turok - Dinosaur Hunter (USA) (Rev B).png"
+    },
+    {
+        "name":  "Turok - Rage Wars (USA)",
+        "description":  "Turok - Rage Wars (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Turok - Rage Wars (USA).png"
+    },
+    {
+        "name":  "Turok 2 - Seeds of Evil (USA)",
+        "description":  "Turok 2 - Seeds of Evil (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Turok 2 - Seeds of Evil (USA) (Rev A).png"
+    },
+    {
+        "name":  "Turok 3 - Shadow of Oblivion (USA)",
+        "description":  "Turok 3 - Shadow of Oblivion (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Turok 3 - Shadow of Oblivion (USA).png"
+    },
+    {
+        "name":  "Twisted Edge - Extreme Snowboarding (USA)",
+        "description":  "Twisted Edge - Extreme Snowboarding (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Sports/Snowboarding",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Twisted Edge - Extreme Snowboarding (USA).png"
+    },
+    {
+        "name":  "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+        "description":  "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+        "manufacturer":  "Yuke\u0027s",
+        "year":  "1997",
+        "genre":  "Action",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "V-Rally Edition 99 (USA)",
+        "description":  "V-Rally Edition 99 (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/V-Rally Edition 99 (USA).png"
+    },
+    {
+        "name":  "Vigilante 8 (USA)",
+        "description":  "Vigilante 8 (USA)",
+        "manufacturer":  "Activision",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Vigilante 8 (USA).png"
+    },
+    {
+        "name":  "Vigilante 8 - 2nd Offense (USA)",
+        "description":  "Vigilante 8 - 2nd Offense (USA)",
+        "manufacturer":  "Activision",
+        "year":  "2000",
+        "genre":  "Driving",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Vigilante 8 - 2nd Offense (USA).png"
+    },
+    {
+        "name":  "Virtual Chess 64 (USA)",
+        "description":  "Virtual Chess 64 (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "1998",
+        "genre":  "Board Games",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Virtual Chess 64 (USA) (En,Fr,Es).png"
+    },
+    {
+        "name":  "Virtual Pool 64 (USA)",
+        "description":  "Virtual Pool 64 (USA)",
+        "manufacturer":  "Crave",
+        "year":  "1998",
+        "genre":  "Sports/Pool and Dart",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Virtual Pool 64 (USA).png"
+    },
+    {
+        "name":  "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+        "description":  "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+        "manufacturer":  "Aki Corp.",
+        "year":  "2000",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Virtual Pro Wrestling 64 (Japan)",
+        "description":  "Virtual Pro Wrestling 64 (Japan)",
+        "manufacturer":  "Aki Corp.",
+        "year":  "1997",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  null
+    },
+    {
+        "name":  "Waialae Country Club - True Golf Classics (USA)",
+        "description":  "Waialae Country Club - True Golf Classics (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Sports/Golf",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Waialae Country Club - True Golf Classics (USA).png"
+    },
+    {
+        "name":  "War Gods (USA)",
+        "description":  "War Gods (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/War Gods (USA).png"
+    },
+    {
+        "name":  "Wave Race 64 (USA)",
+        "description":  "Wave Race 64 (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1996",
+        "genre":  "Water",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Wave Race 64 (USA) (Rev A).png"
+    },
+    {
+        "name":  "Wayne Gretzky\u0027s 3D Hockey \u002798 (USA)",
+        "description":  "Wayne Gretzky\u0027s 3D Hockey \u002798 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1997",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Wayne Gretzky\u0027s 3D Hockey \u002798 (USA).png"
+    },
+    {
+        "name":  "Wayne Gretzky\u0027s 3D Hockey (USA)",
+        "description":  "Wayne Gretzky\u0027s 3D Hockey (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1996",
+        "genre":  "Sports/Hockey",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Wayne Gretzky\u0027s 3D Hockey \u002798 (USA).png"
+    },
+    {
+        "name":  "WCW Backstage Assault (USA)",
+        "description":  "WCW Backstage Assault (USA)",
+        "manufacturer":  "Electronic Arts",
+        "year":  "2000",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WCW Backstage Assault (USA).png"
+    },
+    {
+        "name":  "WCW Mayhem (USA)",
+        "description":  "WCW Mayhem (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1999",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WCW Mayhem (USA).png"
+    },
+    {
+        "name":  "WCW Nitro (USA)",
+        "description":  "WCW Nitro (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WCW Nitro (USA).png"
+    },
+    {
+        "name":  "WCW vs. nWo - World Tour (USA)",
+        "description":  "WCW vs. nWo - World Tour (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1997",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WCW vs. nWo - World Tour (USA) (Rev A).png"
+    },
+    {
+        "name":  "WCW-nWo Revenge (USA)",
+        "description":  "WCW-nWo Revenge (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1998",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WCW-nWo Revenge (USA).png"
+    },
+    {
+        "name":  "Wetrix (USA)",
+        "description":  "Wetrix (USA)",
+        "manufacturer":  "Ocean",
+        "year":  "1998",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Wetrix (USA) (En,Fr,De,Es,It,Nl).png"
+    },
+    {
+        "name":  "Wheel of Fortune (USA)",
+        "description":  "Wheel of Fortune (USA)",
+        "manufacturer":  "GameTek",
+        "year":  "1997",
+        "genre":  "Game Show",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Wheel of Fortune (USA).png"
+    },
+    {
+        "name":  "WinBack - Covert Operations (USA)",
+        "description":  "WinBack - Covert Operations (USA)",
+        "manufacturer":  "Koei",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WinBack - Covert Operations (USA).png"
+    },
+    {
+        "name":  "Wipeout 64 (USA)",
+        "description":  "Wipeout 64 (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1998",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Wipeout 64 (USA).png"
+    },
+    {
+        "name":  "Wonder Project J2 - Koruro no Mori no Jozet (Japan) (Translated En)",
+        "description":  "Wonder Project J2 - Koruro no Mori no Jozet (Japan) (Translated En)",
+        "manufacturer":  "Givro",
+        "year":  "1996",
+        "genre":  "Virtual Life",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "World Cup 98 (USA)",
+        "description":  "World Cup 98 (USA)",
+        "manufacturer":  "EA Sports",
+        "year":  "1998",
+        "genre":  "Sports/Soccer",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png"
+    },
+    {
+        "name":  "World Driver Championship (USA)",
+        "description":  "World Driver Championship (USA)",
+        "manufacturer":  "Midway",
+        "year":  "1999",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/World Driver Championship (USA).png"
+    },
+    {
+        "name":  "Worms Armageddon (USA)",
+        "description":  "Worms Armageddon (USA)",
+        "manufacturer":  "Infogrames",
+        "year":  "2000",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Worms Armageddon (USA) (En,Fr,Es).png"
+    },
+    {
+        "name":  "WWF Attitude (USA)",
+        "description":  "WWF Attitude (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1999",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WWF Attitude (USA).png"
+    },
+    {
+        "name":  "WWF No Mercy (USA)",
+        "description":  "WWF No Mercy (USA)",
+        "manufacturer":  "THQ",
+        "year":  "2000",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WWF No Mercy (USA).png"
+    },
+    {
+        "name":  "WWF War Zone (USA)",
+        "description":  "WWF War Zone (USA)",
+        "manufacturer":  "Acclaim",
+        "year":  "1998",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WWF War Zone (USA).png"
+    },
+    {
+        "name":  "WWF WrestleMania 2000 (USA)",
+        "description":  "WWF WrestleMania 2000 (USA)",
+        "manufacturer":  "THQ",
+        "year":  "1999",
+        "genre":  "Sports/Wrestling",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/WWF WrestleMania 2000 (USA).png"
+    },
+    {
+        "name":  "Xena - Warrior Princess - The Talisman of Fate (USA)",
+        "description":  "Xena - Warrior Princess - The Talisman of Fate (USA)",
+        "manufacturer":  "Titus Software",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Xena - Warrior Princess - The Talisman of Fate (USA).png"
+    },
+    {
+        "name":  "Yoshi\u0027s Story (USA)",
+        "description":  "Yoshi\u0027s Story (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1998",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/nn64-box-art/NN64 Box Art/Yoshi\u0027s Story (USA) (En,Ja).png"
+    }
+]

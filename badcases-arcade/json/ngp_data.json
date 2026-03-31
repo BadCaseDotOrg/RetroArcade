@@ -1,0 +1,452 @@
+﻿[
+    {
+        "name":  "Baseball Stars Color (World) (En,Ja)",
+        "description":  "Baseball Stars Color (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Baseball/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Baseball Stars Color (USA).png"
+    },
+    {
+        "name":  "Biomotor Unitron (USA, Europe)",
+        "description":  "Biomotor Unitron (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Biomotor Unitron (USA).png"
+    },
+    {
+        "name":  "Bust-A-Move Pocket (USA)",
+        "description":  "Bust-A-Move Pocket (USA)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Bust-A-Move Pocket (USA).png"
+    },
+    {
+        "name":  "Cool Boarders Pocket (Japan, Europe) (En,Ja)",
+        "description":  "Cool Boarders Pocket (Japan, Europe) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Snowboarding/Sports",
+        "rating":  "PEGI - 3 (Everyone 3+)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Cool Boarders Pocket (Europe).png"
+    },
+    {
+        "name":  "Crush Roller (World) (En,Ja)",
+        "description":  "Crush Roller (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Crush Roller (USA).png"
+    },
+    {
+        "name":  "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
+        "description":  "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Dark Arms - Beast Buster 1999 (USA).png"
+    },
+    {
+        "name":  "Dive Alert - Becky\u0027s Version (USA, Europe)",
+        "description":  "Dive Alert - Becky\u0027s Version (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Dive Alert - Matt\u0027s Version (USA, Europe)",
+        "description":  "Dive Alert - Matt\u0027s Version (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Role-Playing",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Dynamite Slugger (Japan, Europe) (En,Ja)",
+        "description":  "Dynamite Slugger (Japan, Europe) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Baseball/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Dynamite Slugger (Europe).png"
+    },
+    {
+        "name":  "Evolution - Eternal Dungeons (Europe)",
+        "description":  "Evolution - Eternal Dungeons (Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Role-Playing",
+        "rating":  "PEGI - 3 (Everyone 3+)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Evolution - Eternal Dungeons (Europe).png"
+    },
+    {
+        "name":  "Fantastic Night Dreams Cotton (Europe)",
+        "description":  "Fantastic Night Dreams Cotton (Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "PEGI - 3 (Everyone 3+)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Fantastic Night Dreams Cotton (Europe).png"
+    },
+    {
+        "name":  "Faselei! (Europe)",
+        "description":  "Faselei! (Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Strategy",
+        "rating":  "PEGI - 12 (Everyone 12+)",
+        "image":  null
+    },
+    {
+        "name":  "Fatal Fury F-Contact (World) (En,Ja)",
+        "description":  "Fatal Fury F-Contact (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Fatal Fury F-Contact (USA).png"
+    },
+    {
+        "name":  "King of Fighters R-2 (World) (En,Ja)",
+        "description":  "King of Fighters R-2 (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/King of Fighters R-2 (USA).png"
+    },
+    {
+        "name":  "Last Blade, The - Beyond the Destiny (Europe)",
+        "description":  "Last Blade, The - Beyond the Destiny (Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Last Blade, The - Beyond the Destiny (Europe).png"
+    },
+    {
+        "name":  "Magical Drop Pocket (USA, Europe)",
+        "description":  "Magical Drop Pocket (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Magical Drop Pocket (USA).png"
+    },
+    {
+        "name":  "Metal Slug - 1st Mission (World) (En,Ja)",
+        "description":  "Metal Slug - 1st Mission (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Metal Slug - 1st Mission (USA).png"
+    },
+    {
+        "name":  "Metal Slug - 2nd Mission (World) (En,Ja)",
+        "description":  "Metal Slug - 2nd Mission (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Metal Slug - 2nd Mission (USA).png"
+    },
+    {
+        "name":  "Neo 21 - Real Casino Series (World)",
+        "description":  "Neo 21 - Real Casino Series (World)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Casino",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo 21 - Real Casino Series (USA).png"
+    },
+    {
+        "name":  "Neo Baccarat - Real Casino Series (World)",
+        "description":  "Neo Baccarat - Real Casino Series (World)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Casino",
+        "rating":  "PEGI - 3 (Everyone 3+)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo Baccarat - Real Casino Series (Europe).png"
+    },
+    {
+        "name":  "Neo Cherry Master Color - Real Casino Series (World) (En,Ja)",
+        "description":  "Neo Cherry Master Color - Real Casino Series (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Casino",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo Cherry Master Color - Real Casino Series (USA).png"
+    },
+    {
+        "name":  "Neo Dragon\u0027s Wild - Real Casino Series (World) (En,Ja) (v1.13)",
+        "description":  "Neo Dragon\u0027s Wild - Real Casino Series (World) (En,Ja) (v1.13)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Casino",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Neo Geo Cup \u002798 Plus (World) (En,Ja)",
+        "description":  "Neo Geo Cup \u002798 Plus (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1998",
+        "genre":  "Soccer/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Neo Mystery Bonus - Real Casino Series (World) (En,Ja)",
+        "description":  "Neo Mystery Bonus - Real Casino Series (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Casino",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo Mystery Bonus - Real Casino Series (USA).png"
+    },
+    {
+        "name":  "Neo Turf Masters (World) (En,Ja)",
+        "description":  "Neo Turf Masters (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Golf/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo Turf Masters (USA).png"
+    },
+    {
+        "name":  "Pac-Man (World) (En,Ja)",
+        "description":  "Pac-Man (World) (En,Ja)",
+        "manufacturer":  "Namco",
+        "year":  "1999",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Pac-Man (USA).png"
+    },
+    {
+        "name":  "Picture Puzzle (USA, Europe)",
+        "description":  "Picture Puzzle (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Picture Puzzle (Europe).png"
+    },
+    {
+        "name":  "Pocket Reversi (Europe)",
+        "description":  "Pocket Reversi (Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Board Games",
+        "rating":  "PEGI - 3 (Everyone 3+)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Pocket Reversi (Europe).png"
+    },
+    {
+        "name":  "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)",
+        "description":  "Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Sports/Tennis",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Pocket Tennis Color - Pocket Sports Series (USA).png"
+    },
+    {
+        "name":  "Puyo Pop (World) (En,Ja) (v1.06)",
+        "description":  "Puyo Pop (World) (En,Ja) (v1.06)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Puyo Pop (USA).png"
+    },
+    {
+        "name":  "Puzzle Bobble Mini (Japan, Europe) (v1.10)",
+        "description":  "Puzzle Bobble Mini (Japan, Europe) (v1.10)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Puzzle Link (Europe)",
+        "description":  "Puzzle Link (Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Puzzle Link (USA).png"
+    },
+    {
+        "name":  "Puzzle Link 2 (USA, Europe)",
+        "description":  "Puzzle Link 2 (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Puzzle Link 2 (USA).png"
+    },
+    {
+        "name":  "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
+        "description":  "Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "Shanghai Mini (World) (En,Ja)",
+        "description":  "Shanghai Mini (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Shanghai Mini (USA).png"
+    },
+    {
+        "name":  "SNK Gals\u0027 Fighters (USA, Europe)",
+        "description":  "SNK Gals\u0027 Fighters (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "2000",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "SNK vs. Capcom - Card Fighters\u0027 Clash - Capcom Version (USA, Europe)",
+        "description":  "SNK vs. Capcom - Card Fighters\u0027 Clash - Capcom Version (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Card Battle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "SNK vs. Capcom - Card Fighters\u0027 Clash - SNK Version (USA, Europe)",
+        "description":  "SNK vs. Capcom - Card Fighters\u0027 Clash - SNK Version (USA, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Card Battle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  null
+    },
+    {
+        "name":  "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)",
+        "description":  "SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/SNK vs. Capcom - The Match of the Millennium (USA).png"
+    },
+    {
+        "name":  "Sonic the Hedgehog - Pocket Adventure (World)",
+        "description":  "Sonic the Hedgehog - Pocket Adventure (World)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Sonic the Hedgehog - Pocket Adventure (USA).png"
+    },
+    {
+        "name":  "Baseball Stars (Japan, Europe)",
+        "description":  "Baseball Stars (Japan, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1998",
+        "genre":  "Baseball/Sports",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Baseball Stars (Japan, Europe) (En,Ja).png"
+    },
+    {
+        "name":  "Dokodemo Mahjong (Japan)",
+        "description":  "Dokodemo Mahjong (Japan)",
+        "manufacturer":  "ADK",
+        "year":  "1999",
+        "genre":  "Mahjong",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  null
+    },
+    {
+        "name":  "King of Fighters R-1 (Japan, Europe)",
+        "description":  "King of Fighters R-1 (Japan, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Fighter",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).png"
+    },
+    {
+        "name":  "Melon-chan no Seichou Nikki (Japan)",
+        "description":  "Melon-chan no Seichou Nikki (Japan)",
+        "manufacturer":  "ADK",
+        "year":  "1998",
+        "genre":  "Simulation",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Melon-chan no Seichou Nikki (Japan).png"
+    },
+    {
+        "name":  "Neo Cherry Master - Real Casino Series (Japan, Europe)",
+        "description":  "Neo Cherry Master - Real Casino Series (Japan, Europe)",
+        "manufacturer":  "DYNA",
+        "year":  "1999",
+        "genre":  "Casino",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).png"
+    },
+    {
+        "name":  "Neo Geo Cup \u002798 (Japan, Europe)",
+        "description":  "Neo Geo Cup \u002798 (Japan, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Soccer/Sports",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Neo Geo Cup \u002798 (Japan, Europe) (En,Ja).png"
+    },
+    {
+        "name":  "Pocket Tennis - Pocket Sports Series (Japan, Europe)",
+        "description":  "Pocket Tennis - Pocket Sports Series (Japan, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Tennis/Sports",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).png"
+    },
+    {
+        "name":  "Renketsu Puzzle Tsunagete Pon! (Japan)",
+        "description":  "Renketsu Puzzle Tsunagete Pon! (Japan)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Puzzle",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Renketsu Puzzle Tsunagete Pon! (Japan).png"
+    },
+    {
+        "name":  "Samurai Shodown! - Pocket Fighting Series (Japan, Europe)",
+        "description":  "Samurai Shodown! - Pocket Fighting Series (Japan, Europe)",
+        "manufacturer":  "SNK",
+        "year":  "1998",
+        "genre":  "Fighter",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).png"
+    },
+    {
+        "name":  "Shougi no Tatsujin (Japan)",
+        "description":  "Shougi no Tatsujin (Japan)",
+        "manufacturer":  "SNK",
+        "year":  "1999",
+        "genre":  "Strategy",
+        "rating":  "Other - NR (Not Rated)",
+        "image":  "https://archive.org/download/ngp-box-art/NGP Box Art 2/Shougi no Tatsujin (Japan).png"
+    }
+]

@@ -1,0 +1,848 @@
+﻿[
+    {
+        "name":  "Aero Blasters (USA)",
+        "description":  "Aero Blasters (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Aero Blasters (USA).png"
+    },
+    {
+        "name":  "Air Zonk (USA)",
+        "description":  "Air Zonk (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1992",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Air Zonk (USA).png"
+    },
+    {
+        "name":  "Alien Crush (USA)",
+        "description":  "Alien Crush (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1989",
+        "genre":  "Pinball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Alien Crush (USA).png"
+    },
+    {
+        "name":  "Ballistix (USA)",
+        "description":  "Ballistix (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1992",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Ballistix (USA).png"
+    },
+    {
+        "name":  "Battle Royale (USA)",
+        "description":  "Battle Royale (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Battle Royale (USA).png"
+    },
+    {
+        "name":  "Blazing Lazers (USA)",
+        "description":  "Blazing Lazers (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Blazing Lazers (USA).png"
+    },
+    {
+        "name":  "Bloody Wolf (USA)",
+        "description":  "Bloody Wolf (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bloody Wolf (USA).png"
+    },
+    {
+        "name":  "Bomberman \u002793 (USA)",
+        "description":  "Bomberman \u002793 (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1993",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bomberman \u002793 (USA).png"
+    },
+    {
+        "name":  "Bomberman (USA)",
+        "description":  "Bomberman (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bomberman \u002793 (USA).png"
+    },
+    {
+        "name":  "Bonk III - Bonk\u0027s Big Adventure (USA)",
+        "description":  "Bonk III - Bonk\u0027s Big Adventure (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1993",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bonk III - Bonk\u0027s Big Adventure (USA).png"
+    },
+    {
+        "name":  "Bonk\u0027s Adventure (USA)",
+        "description":  "Bonk\u0027s Adventure (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bonk\u0027s Adventure (USA).png"
+    },
+    {
+        "name":  "Bonk\u0027s Revenge (USA)",
+        "description":  "Bonk\u0027s Revenge (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bonk\u0027s Revenge (USA).png"
+    },
+    {
+        "name":  "Boxyboy (USA)",
+        "description":  "Boxyboy (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Boxyboy (USA).png"
+    },
+    {
+        "name":  "Bravoman (USA)",
+        "description":  "Bravoman (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Bravoman (USA).png"
+    },
+    {
+        "name":  "Cadash (USA)",
+        "description":  "Cadash (USA)",
+        "manufacturer":  "Working Designs",
+        "year":  "1991",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Cadash (USA).png"
+    },
+    {
+        "name":  "Champions Forever Boxing (USA)",
+        "description":  "Champions Forever Boxing (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1991",
+        "genre":  "Boxing/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Champions Forever Boxing (USA).png"
+    },
+    {
+        "name":  "Chew Man Fu (USA)",
+        "description":  "Chew Man Fu (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Chew Man Fu (USA).png"
+    },
+    {
+        "name":  "China Warrior (USA)",
+        "description":  "China Warrior (USA)",
+        "manufacturer":  "Hudson",
+        "year":  "1989",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/China Warrior (USA).png"
+    },
+    {
+        "name":  "Cratermaze (USA)",
+        "description":  "Cratermaze (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Cratermaze (USA).png"
+    },
+    {
+        "name":  "Cyber Core (USA)",
+        "description":  "Cyber Core (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Cyber Core (USA).png"
+    },
+    {
+        "name":  "Darkwing Duck (USA)",
+        "description":  "Darkwing Duck (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1992",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Darkwing Duck (USA).png"
+    },
+    {
+        "name":  "Davis Cup Tennis (USA)",
+        "description":  "Davis Cup Tennis (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Sports/Tennis",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Davis Cup Tennis (USA).png"
+    },
+    {
+        "name":  "Dead Moon (USA)",
+        "description":  "Dead Moon (USA)",
+        "manufacturer":  "NTurbo Technologies, Inc.",
+        "year":  "1992",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Dead Moon (USA).png"
+    },
+    {
+        "name":  "Deep Blue (USA)",
+        "description":  "Deep Blue (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Deep Blue (USA).png"
+    },
+    {
+        "name":  "Devil\u0027s Crush - Naxat Pinball (USA)",
+        "description":  "Devil\u0027s Crush - Naxat Pinball (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Pinball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Double Dungeons - W (USA)",
+        "description":  "Double Dungeons - W (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Double Dungeons - W (USA).png"
+    },
+    {
+        "name":  "Dragon Spirit (USA)",
+        "description":  "Dragon Spirit (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Dragon Spirit (USA).png"
+    },
+    {
+        "name":  "Dragon\u0027s Curse (USA)",
+        "description":  "Dragon\u0027s Curse (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Dragon\u0027s Curse (USA).png"
+    },
+    {
+        "name":  "Drop.Off (USA)",
+        "description":  "Drop.Off (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Drop.Off (USA).png"
+    },
+    {
+        "name":  "Dungeon Explorer (USA)",
+        "description":  "Dungeon Explorer (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Dungeon Explorer (USA).png"
+    },
+    {
+        "name":  "Falcon (USA)",
+        "description":  "Falcon (USA)",
+        "manufacturer":  "Spectrum Holobyte",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Falcon (USA).png"
+    },
+    {
+        "name":  "Fantasy Zone (USA)",
+        "description":  "Fantasy Zone (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Fantasy Zone (USA).png"
+    },
+    {
+        "name":  "Final Lap Twin (USA)",
+        "description":  "Final Lap Twin (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Final Lap Twin (USA).png"
+    },
+    {
+        "name":  "Galaga \u002790 (USA)",
+        "description":  "Galaga \u002790 (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Galaga \u002790 (USA).png"
+    },
+    {
+        "name":  "Ghost Manor (USA)",
+        "description":  "Ghost Manor (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Ghost Manor (USA).png"
+    },
+    {
+        "name":  "Gunboat (USA)",
+        "description":  "Gunboat (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Gunboat (USA).png"
+    },
+    {
+        "name":  "Hit the Ice - VHL the Official Video Hockey League (USA)",
+        "description":  "Hit the Ice - VHL the Official Video Hockey League (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1992",
+        "genre":  "Ice Hockey/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Impossamole (USA)",
+        "description":  "Impossamole (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Impossamole (USA).png"
+    },
+    {
+        "name":  "J.J. \u0026 Jeff (USA)",
+        "description":  "J.J. \u0026 Jeff (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Platform",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/J.J. \u0026 Jeff (USA).png"
+    },
+    {
+        "name":  "Jack Nicklaus\u0027 Turbo Golf (USA)",
+        "description":  "Jack Nicklaus\u0027 Turbo Golf (USA)",
+        "manufacturer":  "Accolade",
+        "year":  "1990",
+        "genre":  "Golf/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Jack Nicklaus\u0027 Turbo Golf (USA).png"
+    },
+    {
+        "name":  "Jackie Chan\u0027s Action Kung Fu (USA)",
+        "description":  "Jackie Chan\u0027s Action Kung Fu (USA)",
+        "manufacturer":  "Hudson",
+        "year":  "1992",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Jackie Chan\u0027s Action Kung Fu (USA).png"
+    },
+    {
+        "name":  "Keith Courage in Alpha Zones (USA)",
+        "description":  "Keith Courage in Alpha Zones (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Keith Courage in Alpha Zones (USA).png"
+    },
+    {
+        "name":  "King of Casino (USA)",
+        "description":  "King of Casino (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Casino",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/King of Casino (USA).png"
+    },
+    {
+        "name":  "Klax (USA)",
+        "description":  "Klax (USA)",
+        "manufacturer":  "Tengen",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Klax (USA).png"
+    },
+    {
+        "name":  "Legend of Hero Tonma (USA)",
+        "description":  "Legend of Hero Tonma (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1993",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Legend of Hero Tonma (USA).png"
+    },
+    {
+        "name":  "Legendary Axe II, The (USA)",
+        "description":  "Legendary Axe II, The (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Legendary Axe II, The (USA).png"
+    },
+    {
+        "name":  "Legendary Axe, The (USA)",
+        "description":  "Legendary Axe, The (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Legendary Axe, The (USA).png"
+    },
+    {
+        "name":  "Magical Chase (USA)",
+        "description":  "Magical Chase (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1993",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Magical Chase (USA).png"
+    },
+    {
+        "name":  "Military Madness (USA)",
+        "description":  "Military Madness (USA)",
+        "manufacturer":  "Hudson",
+        "year":  "1989",
+        "genre":  "Strategy",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Military Madness (USA).png"
+    },
+    {
+        "name":  "Moto Roader (USA)",
+        "description":  "Moto Roader (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Moto Roader (USA).png"
+    },
+    {
+        "name":  "Neutopia (USA)",
+        "description":  "Neutopia (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Neutopia (USA).png"
+    },
+    {
+        "name":  "Neutopia II (USA)",
+        "description":  "Neutopia II (USA)",
+        "manufacturer":  "Hudson",
+        "year":  "1991",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Neutopia II (USA).png"
+    },
+    {
+        "name":  "New Adventure Island (USA)",
+        "description":  "New Adventure Island (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1992",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/New Adventure Island (USA).png"
+    },
+    {
+        "name":  "Night Creatures (USA)",
+        "description":  "Night Creatures (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Night Creatures (USA).png"
+    },
+    {
+        "name":  "Ninja Spirit (USA)",
+        "description":  "Ninja Spirit (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Ninja Spirit (USA).png"
+    },
+    {
+        "name":  "Order of the Griffon (USA)",
+        "description":  "Order of the Griffon (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1992",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Order of the Griffon (USA).png"
+    },
+    {
+        "name":  "Ordyne (USA)",
+        "description":  "Ordyne (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Ordyne (USA).png"
+    },
+    {
+        "name":  "Pac-Land (USA)",
+        "description":  "Pac-Land (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Pac-Land (USA).png"
+    },
+    {
+        "name":  "Panza Kick Boxing (USA)",
+        "description":  "Panza Kick Boxing (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1991",
+        "genre":  "Boxing/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Panza Kick Boxing (USA).png"
+    },
+    {
+        "name":  "Parasol Stars - The Story of Bubble Bobble III (USA)",
+        "description":  "Parasol Stars - The Story of Bubble Bobble III (USA)",
+        "manufacturer":  "Working Designs",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Parasol Stars - The Story of Bubble Bobble III (USA).png"
+    },
+    {
+        "name":  "Power Golf (USA)",
+        "description":  "Power Golf (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Golf/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Power Golf (USA).png"
+    },
+    {
+        "name":  "Psychosis (USA)",
+        "description":  "Psychosis (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Psychosis (USA).png"
+    },
+    {
+        "name":  "R-Type (USA)",
+        "description":  "R-Type (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/R-Type (USA).png"
+    },
+    {
+        "name":  "Raiden (USA)",
+        "description":  "Raiden (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Raiden (USA).png"
+    },
+    {
+        "name":  "Samurai-Ghost (USA)",
+        "description":  "Samurai-Ghost (USA)",
+        "manufacturer":  "Namco",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Samurai-Ghost (USA).png"
+    },
+    {
+        "name":  "Shockman (USA)",
+        "description":  "Shockman (USA)",
+        "manufacturer":  "NCS",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Shockman (USA).png"
+    },
+    {
+        "name":  "SideArms - Hyper Dyne (USA)",
+        "description":  "SideArms - Hyper Dyne (USA)",
+        "manufacturer":  "Radiance",
+        "year":  "1989",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/SideArms - Hyper Dyne (USA).png"
+    },
+    {
+        "name":  "Silent Debuggers (USA)",
+        "description":  "Silent Debuggers (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Silent Debuggers (USA).png"
+    },
+    {
+        "name":  "Sinistron (USA)",
+        "description":  "Sinistron (USA)",
+        "manufacturer":  "IGS",
+        "year":  "1991",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Sinistron (USA).png"
+    },
+    {
+        "name":  "Soldier Blade (USA)",
+        "description":  "Soldier Blade (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1992",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Soldier Blade (USA).png"
+    },
+    {
+        "name":  "Somer Assault (USA)",
+        "description":  "Somer Assault (USA)",
+        "manufacturer":  "Atlus Co.",
+        "year":  "1992",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Somer Assault (USA).png"
+    },
+    {
+        "name":  "Sonic Spike - World Championship Beach Volleyball (USA)",
+        "description":  "Sonic Spike - World Championship Beach Volleyball (USA)",
+        "manufacturer":  "IGS",
+        "year":  "1990",
+        "genre":  "Sports/Volleyball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Sonic Spike - World Championship Beach Volleyball (USA).png"
+    },
+    {
+        "name":  "Space Harrier (USA)",
+        "description":  "Space Harrier (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1988",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Space Harrier (USA).png"
+    },
+    {
+        "name":  "Splatterhouse (USA)",
+        "description":  "Splatterhouse (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Splatterhouse (USA).png"
+    },
+    {
+        "name":  "Super Star Soldier (USA)",
+        "description":  "Super Star Soldier (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Super Star Soldier (USA).png"
+    },
+    {
+        "name":  "Super Volleyball (USA)",
+        "description":  "Super Volleyball (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Sports/Volleyball",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Super Volleyball (USA).png"
+    },
+    {
+        "name":  "Taito Chase H.Q. (USA)",
+        "description":  "Taito Chase H.Q. (USA)",
+        "manufacturer":  "Taito Corporation",
+        "year":  "1992",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Taito Chase H.Q. (USA).png"
+    },
+    {
+        "name":  "Takin\u0027 It to the Hoop (USA)",
+        "description":  "Takin\u0027 It to the Hoop (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Basketball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Takin\u0027 It to the Hoop (USA).png"
+    },
+    {
+        "name":  "TaleSpin (USA)",
+        "description":  "TaleSpin (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/TaleSpin (USA).png"
+    },
+    {
+        "name":  "Tiger Road (USA)",
+        "description":  "Tiger Road (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Tiger Road (USA).png"
+    },
+    {
+        "name":  "Time Cruise (USA)",
+        "description":  "Time Cruise (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1992",
+        "genre":  "Board Games",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Time Cruise (USA).png"
+    },
+    {
+        "name":  "Timeball (USA)",
+        "description":  "Timeball (USA)",
+        "manufacturer":  "Turbo Technologies, Inc.",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Timeball (USA).png"
+    },
+    {
+        "name":  "Tricky Kick (USA)",
+        "description":  "Tricky Kick (USA)",
+        "manufacturer":  "IGS",
+        "year":  "1990",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Tricky Kick (USA).png"
+    },
+    {
+        "name":  "Turrican (USA)",
+        "description":  "Turrican (USA)",
+        "manufacturer":  "Ballistic",
+        "year":  "1991",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Turrican (USA).png"
+    },
+    {
+        "name":  "TV Sports Basketball (USA)",
+        "description":  "TV Sports Basketball (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Basketball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/TV Sports Basketball (USA).png"
+    },
+    {
+        "name":  "TV Sports Football (USA)",
+        "description":  "TV Sports Football (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Football/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/TV Sports Football (USA).png"
+    },
+    {
+        "name":  "TV Sports Hockey (USA)",
+        "description":  "TV Sports Hockey (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Ice Hockey/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/TV Sports Hockey (USA).png"
+    },
+    {
+        "name":  "Veigues - Tactical Gladiator (USA)",
+        "description":  "Veigues - Tactical Gladiator (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1990",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Veigues - Tactical Gladiator (USA).png"
+    },
+    {
+        "name":  "Victory Run (USA)",
+        "description":  "Victory Run (USA)",
+        "manufacturer":  "Hudson",
+        "year":  "1991",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Victory Run (USA).png"
+    },
+    {
+        "name":  "Vigilante (USA)",
+        "description":  "Vigilante (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Vigilante (USA).png"
+    },
+    {
+        "name":  "World Class Baseball (USA)",
+        "description":  "World Class Baseball (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Baseball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/World Class Baseball (USA).png"
+    },
+    {
+        "name":  "World Court Tennis (USA)",
+        "description":  "World Court Tennis (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1989",
+        "genre":  "Sports/Tennis",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/World Court Tennis (USA).png"
+    },
+    {
+        "name":  "World Sports Competition (USA)",
+        "description":  "World Sports Competition (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1993",
+        "genre":  "Olympic/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/World Sports Competition (USA).png"
+    },
+    {
+        "name":  "Yo, Bro (USA)",
+        "description":  "Yo, Bro (USA)",
+        "manufacturer":  "NEC",
+        "year":  "1991",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/tg16-box-art/TG16 Box Art/Yo, Bro (USA).png"
+    }
+]

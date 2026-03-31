@@ -1,0 +1,488 @@
+﻿[
+    {
+        "name":  "Air Cars (World)",
+        "description":  "Air Cars (World)",
+        "manufacturer":  "ICD",
+        "year":  "1997",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Air Cars (World).png"
+    },
+    {
+        "name":  "Alien vs Predator (World)",
+        "description":  "Alien vs Predator (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Shooter",
+        "rating":  "HSRS - PG (Parental Guidance)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Alien vs Predator (World).png"
+    },
+    {
+        "name":  "Atari Karts (World)",
+        "description":  "Atari Karts (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Atari Karts (World).png"
+    },
+    {
+        "name":  "Attack of the Mutant Penguins (World)",
+        "description":  "Attack of the Mutant Penguins (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1996",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Attack of the Mutant Penguins (World).png"
+    },
+    {
+        "name":  "Battle Sphere Gold (World)",
+        "description":  "Battle Sphere Gold (World)",
+        "manufacturer":  "ScatoLogic",
+        "year":  "2000",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Brutal Sports Football (World)",
+        "description":  "Brutal Sports Football (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Football/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Brutal Sports Football (World).png"
+    },
+    {
+        "name":  "Bubsy in Fractured Furry Tales (World)",
+        "description":  "Bubsy in Fractured Furry Tales (World)",
+        "manufacturer":  "Accolade",
+        "year":  "1994",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Bubsy in Fractured Furry Tales (World).png"
+    },
+    {
+        "name":  "Cannon Fodder (World)",
+        "description":  "Cannon Fodder (World)",
+        "manufacturer":  "Virgin Interactive",
+        "year":  "1995",
+        "genre":  "Strategy",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Cannon Fodder (World).png"
+    },
+    {
+        "name":  "Checkered Flag (World)",
+        "description":  "Checkered Flag (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Checkered Flag (World).png"
+    },
+    {
+        "name":  "Club Drive (World)",
+        "description":  "Club Drive (World)",
+        "manufacturer":  "Atari",
+        "year":  "1994",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Club Drive (World).png"
+    },
+    {
+        "name":  "Cybermorph (World) (Rev 2)",
+        "description":  "Cybermorph (World) (Rev 2)",
+        "manufacturer":  "Atari",
+        "year":  "1993",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Cybermorph (World).png"
+    },
+    {
+        "name":  "Defender 2000 (World)",
+        "description":  "Defender 2000 (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1996",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Defender 2000 (World).png"
+    },
+    {
+        "name":  "Doom (World)",
+        "description":  "Doom (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Doom (World).png"
+    },
+    {
+        "name":  "Double Dragon V - The Shadow Falls (World)",
+        "description":  "Double Dragon V - The Shadow Falls (World)",
+        "manufacturer":  "Tradewest",
+        "year":  "1995",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Double Dragon V - The Shadow Falls (World).png"
+    },
+    {
+        "name":  "Dragon - The Bruce Lee Story (World)",
+        "description":  "Dragon - The Bruce Lee Story (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Platform",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Dragon - The Bruce Lee Story (World).png"
+    },
+    {
+        "name":  "Evolution - Dino Dudes (World)",
+        "description":  "Evolution - Dino Dudes (World)",
+        "manufacturer":  "Atari",
+        "year":  "1994",
+        "genre":  "Puzzle",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Evolution - Dino Dudes (World).png"
+    },
+    {
+        "name":  "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
+        "description":  "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Soccer/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Fever Pitch Soccer (World).png"
+    },
+    {
+        "name":  "Fight for Life (World)",
+        "description":  "Fight for Life (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1996",
+        "genre":  "Fighter",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Fight for Life (World).png"
+    },
+    {
+        "name":  "Flashback - The Quest for Identity (World) (En,Fr)",
+        "description":  "Flashback - The Quest for Identity (World) (En,Fr)",
+        "manufacturer":  "U.S. Gold",
+        "year":  "1995",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Flashback - The Quest for Identity (World).png"
+    },
+    {
+        "name":  "Flip Out! (World)",
+        "description":  "Flip Out! (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Flip Out! (World).png"
+    },
+    {
+        "name":  "Hover Strike (World)",
+        "description":  "Hover Strike (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Flying",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Hover Strike (World).png"
+    },
+    {
+        "name":  "Hyper Force (World)",
+        "description":  "Hyper Force (World)",
+        "manufacturer":  "Songbird Productions",
+        "year":  "2000",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Hyper Force (World).png"
+    },
+    {
+        "name":  "I-War (World)",
+        "description":  "I-War (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/I-War (World).png"
+    },
+    {
+        "name":  "Iron Soldier (World) (v1.04)",
+        "description":  "Iron Soldier (World) (v1.04)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Simulation",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Iron Soldier (World).png"
+    },
+    {
+        "name":  "Kasumi Ninja (World)",
+        "description":  "Kasumi Ninja (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Kasumi Ninja (World).png"
+    },
+    {
+        "name":  "Missile Command 3D (World)",
+        "description":  "Missile Command 3D (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Action",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Missile Command 3D (World).png"
+    },
+    {
+        "name":  "NBA Jam T.E. (World)",
+        "description":  "NBA Jam T.E. (World)",
+        "manufacturer":  "Acclaim",
+        "year":  "1996",
+        "genre":  "Basketball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/NBA Jam T.E. (World).png"
+    },
+    {
+        "name":  "Pinball Fantasies (World)",
+        "description":  "Pinball Fantasies (World)",
+        "manufacturer":  "21st Century Entertainment",
+        "year":  "1995",
+        "genre":  "Pinball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Pinball Fantasies (World).png"
+    },
+    {
+        "name":  "Pitfall - The Mayan Adventure (World)",
+        "description":  "Pitfall - The Mayan Adventure (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Platform",
+        "rating":  "ESRB - T (Teen)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Pitfall - The Mayan Adventure (World).png"
+    },
+    {
+        "name":  "Power Drive Rally (World)",
+        "description":  "Power Drive Rally (World)",
+        "manufacturer":  "Time Warner Interactive",
+        "year":  "1995",
+        "genre":  "Driving",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Power Drive Rally (World).png"
+    },
+    {
+        "name":  "Protector - Special Edition (World)",
+        "description":  "Protector - Special Edition (World)",
+        "manufacturer":  "Songbird Productions",
+        "year":  "2002",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Protector - Special Edition (World).png"
+    },
+    {
+        "name":  "Raiden (World)",
+        "description":  "Raiden (World)",
+        "manufacturer":  "Fabtek",
+        "year":  "1994",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Raiden (World).png"
+    },
+    {
+        "name":  "Rayman (World)",
+        "description":  "Rayman (World)",
+        "manufacturer":  "Ubisoft",
+        "year":  "1995",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Rayman (World).png"
+    },
+    {
+        "name":  "Ruiner Pinball (World)",
+        "description":  "Ruiner Pinball (World)",
+        "manufacturer":  "High Voltage Software",
+        "year":  "1995",
+        "genre":  "Pinball",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Ruiner Pinball (World).png"
+    },
+    {
+        "name":  "Sensible Soccer - International Edition (World)",
+        "description":  "Sensible Soccer - International Edition (World)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1995",
+        "genre":  "Soccer/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  null
+    },
+    {
+        "name":  "Skyhammer (World)",
+        "description":  "Skyhammer (World)",
+        "manufacturer":  "Songbird Productions",
+        "year":  "2000",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Skyhammer (World).png"
+    },
+    {
+        "name":  "Soccer Kid (World)",
+        "description":  "Soccer Kid (World)",
+        "manufacturer":  "Songbird Productions",
+        "year":  "2000",
+        "genre":  "Soccer/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Soccer Kid (World).png"
+    },
+    {
+        "name":  "Super Burnout (World)",
+        "description":  "Super Burnout (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Super Burnout (World).png"
+    },
+    {
+        "name":  "SuperCross 3D (World)",
+        "description":  "SuperCross 3D (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Motorcycle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/SuperCross 3D (World).png"
+    },
+    {
+        "name":  "Syndicate (World)",
+        "description":  "Syndicate (World)",
+        "manufacturer":  "Ocean",
+        "year":  "1995",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Syndicate (World).png"
+    },
+    {
+        "name":  "Tempest 2000 (World)",
+        "description":  "Tempest 2000 (World)",
+        "manufacturer":  "Atari",
+        "year":  "1994",
+        "genre":  "Shooter",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Tempest 2000 (World).png"
+    },
+    {
+        "name":  "Theme Park (World)",
+        "description":  "Theme Park (World)",
+        "manufacturer":  "Ocean",
+        "year":  "1995",
+        "genre":  "Strategy",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Theme Park (World).png"
+    },
+    {
+        "name":  "Total Carnage (World)",
+        "description":  "Total Carnage (World)",
+        "manufacturer":  "Songbird Productions",
+        "year":  "2005",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Total Carnage (World).png"
+    },
+    {
+        "name":  "Towers II (World)",
+        "description":  "Towers II (World)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1996",
+        "genre":  "Role-Playing",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Towers II (World).png"
+    },
+    {
+        "name":  "Trevor McFur in the Crescent Galaxy (World)",
+        "description":  "Trevor McFur in the Crescent Galaxy (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1993",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Trevor McFur in the Crescent Galaxy (World).png"
+    },
+    {
+        "name":  "Troy Aikman NFL Football (World)",
+        "description":  "Troy Aikman NFL Football (World)",
+        "manufacturer":  "Williams",
+        "year":  "1995",
+        "genre":  "Football/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Troy Aikman NFL Football (World).png"
+    },
+    {
+        "name":  "Ultra Vortek (World)",
+        "description":  "Ultra Vortek (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Fighter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Ultra Vortek (World).png"
+    },
+    {
+        "name":  "Val d\u0027Isere Skiing and Snowboarding (World)",
+        "description":  "Val d\u0027Isere Skiing and Snowboarding (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Skiing/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Val d\u0027Isere Skiing and Snowboarding (World).png"
+    },
+    {
+        "name":  "White Men Can\u0027t Jump (World)",
+        "description":  "White Men Can\u0027t Jump (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1995",
+        "genre":  "Basketball/Sports",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/White Men Can\u0027t Jump (World).png"
+    },
+    {
+        "name":  "Wolfenstein 3D (World)",
+        "description":  "Wolfenstein 3D (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Shooter",
+        "rating":  "ESRB - M (Mature)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Wolfenstein 3D (World).png"
+    },
+    {
+        "name":  "Worms (World)",
+        "description":  "Worms (World)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1998",
+        "genre":  "Strategy",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Worms (World).png"
+    },
+    {
+        "name":  "Zero 5 (World)",
+        "description":  "Zero 5 (World)",
+        "manufacturer":  "Telegames, Inc.",
+        "year":  "1997",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Zero 5 (World).png"
+    },
+    {
+        "name":  "Zool 2 (World)",
+        "description":  "Zool 2 (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1994",
+        "genre":  "Platform",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Zool 2 (World).png"
+    },
+    {
+        "name":  "Zoop! (World)",
+        "description":  "Zoop! (World)",
+        "manufacturer":  "Atari Games",
+        "year":  "1996",
+        "genre":  "Puzzle",
+        "rating":  "ESRB - E (Everyone)",
+        "image":  "https://archive.org/download/aj-box-art/AJ Box Art/Zoop! (World).png"
+    }
+]

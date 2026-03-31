@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Recent Games</title>
+
+  <style>
+    :root {
+      --bg: #0d0d0d;
+      --card-bg: rgba(30, 30, 30, 0.95);
+      --accent: #00ccff;
+      --text: #eeeeee;
+      --text-muted: #aaaaaa;
+      --border: rgba(255, 255, 255, 0.08);
+    }
+
+    body {
+      font-family: 'Segoe UI', system-ui, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 16px;
+      min-width: 320px;
+      line-height: 1.4;
+    }
+
+    h2 {
+      margin: 0 0 16px 0;
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      text-align: center;
+    }
+
+    #filter-container {
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    #filter-container label {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+        #search-input, #console-filter, #sort-select, #genre-filter {
+      background: #1f1f1f;
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      width: 100%;
+    }
+
+    #search-input {
+      width: 220px;
+      flex: 1;
+      min-width: 180px;
+    }
+
+    #search-input:focus,
+    #console-filter:focus,
+    #sort-select:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(0, 204, 255, 0.15);
+    }
+
+    #console-filter {
+      background: #1f1f1f;
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    #search-input {
+      background: #1f1f1f;
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      width: 220px;
+      flex: 1;
+      min-width: 180px;
+    }
+
+    #search-input:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(0, 204, 255, 0.15);
+    }
+
+    #filter-container {
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-self: center;
+      position: sticky;
+    top: 0;
+    background: #111;
+    border: 1px solid var(--border);
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+    padding: 12px 16px;
+    z-index: 999999;
+    }
+
+    #filter-container label {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    #genre-filter {
+      background: #1f1f1f;
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    #genre-filter:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(0, 204, 255, 0.15);
+    }
+
+    #list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 18px;
+      justify-content: center;
+    }
+
+    .game-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      max-width: 300px;
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .game-card:hover {
+      transform: translateY(-6px) scale(1.03);
+      box-shadow: 0 15px 35px rgba(0, 204, 255, 0.18);
+      border-color: rgba(0, 204, 255, 0.35);
+    }
+
+    .game-card img.thumbnail,
+    #edit-img {
+      width: 100%;
+      height: 170px;
+      object-fit: contain;
+      background: #111;
+      padding: 12px;
+      transition: transform 0.4s ease;
+    }
+    #edit-img {
+border-radius: 8px;
+    }
+    #edit-img {
+      width: stretch;
+      margin-bottom: 8px;
+    }
+
+    .game-card:hover img.thumbnail {
+      transform: scale(1.08);
+    }
+
+    .info {
+      padding: 14px 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .game-name {
+      font-size: 1.12rem;
+      font-weight: 600;
+      margin: 0 0 10px 0;
+      line-height: 1.25;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      width: 100%;
+      text-align: center;
+    }
+
+    .extra-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 12px;
+      justify-content: center;
+    }
+
+    .extra-meta span {
+      background: rgba(255, 255, 255, 0.07);
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      padding: 3px 9px;
+      border-radius: 9999px;
+      white-space: nowrap;
+    }
+
+    .core-label {
+      background: rgba(0, 204, 255, 0.12);
+      color: var(--accent);
+      font-size: 0.82rem;
+      font-weight: 500;
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin-bottom: 14px;
+    }
+
+.play-btn {
+  background: linear-gradient(90deg, #0a6f7f, #05525d);
+  color: #e0e0e0;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 11px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: auto;
+  transition: all 0.2s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  width: 100%;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+.play-btn:hover {
+  background: linear-gradient(90deg, #12818e, #0a5f6e); /* subtle brightening */
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.6); /* subtle hover depth */
+}
+    #list>div:only-child {
+      grid-column: 1 / -1;
+
+    }
+
+    #edit-dialog {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.78);
+      justify-content: center;
+      align-items: center;
+      z-index: 999999;
+      backdrop-filter: blur(10px);
+    }
+
+    #edit-dialog>div {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      width: 300px;
+      padding: 4px 12px 12px 12px;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+    }
+
+    #edit-dialog h3 {
+      margin: 0 0 4px 0;
+      font-size: 1.35rem;
+      font-weight: 600;
+      color: #fff;
+      text-align: center;
+    }
+
+    #edit-name,
+    #edit-image {
+      width: 100%;
+      padding: 12px 14px;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 1rem;
+      margin-bottom: 20px;
+      box-sizing: border-box;
+    }
+#edit-image {
+      margin-top: 10px;
+  }
+    #edit-name {
+    margin-bottom: 0px;
+    }
+    #edit-name:focus,
+    #edit-image:focus {
+      outline: none;
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(0, 204, 255, 0.15);
+    }
+
+    #edit-dialog .buttons {
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+    }
+
+    #edit-dialog button {
+      padding: 10px 18px;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      font-size: 0.95rem;
+      transition: all 0.2s ease;
+      flex: 1;
+    }
+
+    #save-btn {
+      background: linear-gradient(90deg, #00ccff, #0099cc);
+      color: #000;
+    }
+
+    #save-btn:hover {
+      background: linear-gradient(90deg, #00e6ff, #00b3e6);
+      transform: translateY(-1px);
+    }
+
+    #cancel-btn {
+      background: #333;
+      color: #ddd;
+    }
+
+    #cancel-btn:hover {
+      background: #444;
+    }
+
+    #delete-btn {
+      background: #c33;
+      color: white;
+    }
+
+    #delete-btn:hover {
+      background: #e22;
+    }
+
+    .action-wrapper {
+      width: stretch;
+      flex-direction: column;
+      display: flex;
+      align-items: center;
+      margin-top: auto;
+    }
+
+    #settings-btn {
+      background: #1f1f1f;
+      color: var(--accent);
+      border: 1px solid var(--border);
+      padding: 4px 6px;
+      border-radius: 6px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      margin-left: auto;
+      
+    }
+
+    #settings-btn:hover {
+      background: #2a2a2a;
+      border-color: var(--accent);
+    }
+
+
+    #settings-btn img {
+      width: 16px;
+    }
+
+    .settings-panel {
+      display: none;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-block: 16px;
+      margin-inline: 20px;
+      padding: 20px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+    }
+    .settings-panel:hover {
+      transform: translateY(-6px) scale(1.03);
+      box-shadow: 0 15px 35px rgba(0, 204, 255, 0.18);
+      border-color: rgba(0, 204, 255, 0.35);
+    }
+    .settings-panel h3 {
+      margin: 0 0 16px 0;
+      color: #fff;
+      font-size: 1.3rem;
+    }
+
+    .settings-section {
+      margin-bottom: 20px;
+    }
+
+    .settings-section h4 {
+      margin: 0 0 12px 0;
+      color: var(--accent);
+      font-size: 1rem;
+    }
+
+    .settings-panel button {
+      background: #333;
+      color: #ddd;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 8px;
+      margin-right: 10px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .settings-panel button:hover {
+      background: #444;
+    }
+
+    .danger-btn {
+      background: #c33 !important;
+      color: white !important;
+    }
+
+    .danger-btn:hover {
+      background: #e22 !important;
+    }
+
+    .settings-panel button {
+      margin-bottom: 8px;
+    }
+
+    .radio-toggle {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .radio-toggle label {
+      position: relative;
+      padding: 8px 16px;
+      border: 2px solid #333;
+      border-radius: 6px;
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s;
+      width: stretch;
+      text-align: center;
+    }
+
+    .radio-toggle input[type="radio"] {
+      display: none;
+    }
+
+    .radio-toggle input[type="radio"]:checked+span {
+      background-color: #333;
+      color: #fff;
+      border-color: #333;
+    }
+
+    .radio-toggle input[type="radio"]:checked+label {
+      background-color: #333;
+      color: #fff;
+      border-color: #333;
+    }
+
+    .input-icon {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
+    .input-icon .icon {
+      position: absolute;
+      left: 10px;
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    .input-icon input,
+    .input-icon select {
+      padding-left: 32px !important;
+    }
+    .icon img {
+      width: 14px;
+    }
+#header-wrapper {
+  width: 100%;
+  margin-bottom: 16px;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.6);
+
+}
+
+#header-img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  pointer-events: none;
+  user-select: none;
+}
+
+#header-wrapper:hover {
+  box-shadow: 0 10px 35px rgba(0, 204, 255, 0.25);
+  border-color: rgba(0, 204, 255, 0.35);
+}
+
+@media (orientation: portrait) {
+  #filter-container {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 16px;
+    gap: 16px;
+    width: stretch;
+  }
+
+  #filter-container label {
+    font-size: 2rem;
+  }
+
+  #search-input,
+  #console-filter,
+  #sort-select,
+  #genre-filter {
+    font-size: 2rem;
+    padding: 10px 12px;
+    width: 100%;
+  }
+
+  #list {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+
+  .game-card {
+    max-width: 100%;
+  }
+.game-card img.thumbnail {
+    height: 300px;
+}
+  .game-name {
+    font-size: 2.25rem;
+  }
+
+  .extra-meta span,
+  .core-label {
+    font-size: 1.9rem;
+    padding: 5px 10px;
+  }
+
+  .play-btn {
+    font-size: 2.15rem;
+    padding: 14px 18px;
+  }
+
+  #header-wrapper {
+    margin-bottom: 20px;
+    height: 180px;
+  }
+  #settings-btn img {
+    width: 48px;
+}
+    .settings-panel {
+    width: 95%;
+    margin-inline: auto;
+    padding: 20px 16px;
+    border-radius: 12px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.6);
+  }
+
+  .settings-panel h3 {
+    font-size: 2.4rem;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  .settings-section h4 {
+    font-size: 2.1rem;
+    margin-bottom: 14px;
+  }
+
+  .settings-panel button {
+    font-size: 2rem;
+    padding: 12px 16px;
+    border-radius: 10px;
+  }
+
+  .radio-toggle {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .radio-toggle label {
+    padding: 10px 16px;
+    font-size: 2rem;
+  }
+
+  .settings-panel input,
+  .settings-panel select {
+    font-size: 2rem;
+    padding: 10px 12px;
+  }
+  #edit-dialog > div {
+    width: 95%;
+    padding: 16px;
+    border-radius: 12px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7);
+  }
+
+  #edit-dialog h3 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+
+  #edit-name,
+  #edit-image {
+    font-size: 2.05rem;
+    padding: 12px 14px;
+  }
+
+  #edit-dialog .buttons {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  #edit-dialog button {
+    font-size: 2rem;
+    padding: 12px 16px;
+    border-radius: 10px;
+  }
+form {
+    font-size: 2rem;
+    margin-bottom: 64px;
+}
+  #edit-image {
+    margin-top: 12px;
+    width: 100%;
+  }
+  #edit-img {
+height: 30dvh;
+  }
+
+}
+  </style>
+</head>
+
+<body>
+<div id="header-wrapper">
+  <img id="header-img" src="img/arcade_header.png" alt="Arcade Header">
+</div>
+  <div id="filter-container">
+    <div class="input-icon">
+      <span class="icon"><img src="img/magnifying-glass-white.svg" /></span>
+      <input type="text" id="search-input" placeholder="Search by name..." autocomplete="off">
+    </div>
+    <div class="input-icon">
+      <span class="icon"><img src="img/gamepad-modern-white.svg" /></span>
+      <select id="console-filter">
+        <option value="all">All</option>
+        <option value="nes">NES</option>
+        <option value="snes">SNES</option>
+        <option value="gba">GBA</option>
+        <option value="gb">GB/GBC</option>
+        <option value="n64">N64</option>
+        <option value="nds">NDS</option>
+        <option value="segaMD">Sega Genesis</option>
+        <option value="segaMS">Sega Master System</option>
+        <option value="segaGG">Sega Game Gear</option>
+        <option value="psx">PlayStation</option>
+        <option value="psp">PSP</option>
+      </select>
+    </div>
+
+    <div class="input-icon">
+      <span class="icon"><img src="img/tags-white.svg" /></span>
+      <select id="genre-filter">
+        <option value="all">All Genres</option>
+      </select>
+    </div>
+    <div class="input-icon">
+      <span class="icon" style="padding-top: 4px;"><img src="img/sort-white.svg" /></span>
+      <select id="sort-select">
+        <option value="recent">Recently Added</option>
+        <option value="name-asc">Name (A-Z)</option>
+        <option value="name-desc">Name (Z-A)</option>
+        <option value="year-desc">Year (Newest)</option>
+        <option value="year-asc">Year (Oldest)</option>
+      </select>
+    <button id="settings-btn" title="Settings"><img src="img/gears-white.svg" /></button>
+    </div>
+    <!-- Settings Button -->
+  </div>
+  <!-- Hidden Settings Panel -->
+  <div id="settings-panel" class="settings-panel">
+    <h3>Settings</h3>
+
+    <div class="settings-section">
+      <h4>Backup & Restore</h4>
+      <button id="backup-btn">Backup Your Games (Export JSON)</button>
+      <button id="restore-btn">Restore from Backup (Import JSON)</button>
+      <input type="file" id="restore-file" accept=".json" style="display: none;">
+    </div>
+    <div class="settings-section">
+
+      <form id="emulatorChoiceForm">
+        <h4>Default Emulator</h4>
+
+        <div class="radio-toggle">
+
+          <input type="radio" id="emulatorjs" name="emulator" value="EmulatorJS" checked>
+          <label for="emulatorjs">EmulatorJS</label>
+
+          <input type="radio" id="webretro" name="emulator" value="WebRetro">
+          <label for="webretro">WebRetro</label>
+
+
+        </div>
+      </form>
+    </div>
+
+    <div class="settings-section">
+      <h4>Danger Zone</h4>
+      <button id="delete-all-btn" class="danger-btn">Delete All Games</button>
+    </div>
+
+
+  </div>
+
+  <div id="edit-dialog">
+    <div>
+      <h3>Edit Game</h3>
+      <img id="edit-img" class="thumbnail" src="" style="display: block;">
+      <input type="text" id="edit-image" placeholder="Enter image link..." autocomplete="off">
+
+      <input id="edit-name" type="text" placeholder="Game title" />
+      <form id="emulatorChoiceForm">
+        <p>Select an emulator:</p>
+
+        <div class="radio-toggle">
+
+          <input type="radio" id="emulatorjs_rom" name="rom_emulator" value="EmulatorJS" checked>
+          <label for="emulatorjs_rom">EmulatorJS</label>
+
+          <input type="radio" id="webretro_rom" name="rom_emulator" value="WebRetro">
+          <label for="webretro_rom">WebRetro</label>
+
+
+        </div>
+      </form>
+
+      <div class="buttons">
+        <button id="cancel-btn">Cancel</button>
+        <button id="delete-btn">Delete</button>
+        <button id="save-btn">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="list"></div>
+
+  <script src="arcadeTab.js"></script>
+</body>
+
+</html>

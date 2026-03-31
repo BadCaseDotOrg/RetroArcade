@@ -1,0 +1,533 @@
+﻿[
+    {
+        "name":  "32 in 1 (USA)",
+        "description":  "32 in 1 (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1988",
+        "genre":  "Compilation",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/32 in 1 (Europe).png"
+    },
+    {
+        "name":  "Ace of Aces (USA)",
+        "description":  "Ace of Aces (USA)",
+        "manufacturer":  "Artech",
+        "year":  "1988",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Ace of Aces (USA).png"
+    },
+    {
+        "name":  "Alien Brigade (USA)",
+        "description":  "Alien Brigade (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Alien Brigade (USA).png"
+    },
+    {
+        "name":  "Asteroids (USA)",
+        "description":  "Asteroids (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1987",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Asteroids (USA).png"
+    },
+    {
+        "name":  "Ballblazer (USA)",
+        "description":  "Ballblazer (USA)",
+        "manufacturer":  "Lucasfilm Games",
+        "year":  "1987",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Ballblazer (USA).png"
+    },
+    {
+        "name":  "Barnyard Blaster (USA)",
+        "description":  "Barnyard Blaster (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1988",
+        "genre":  "Gun",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Barnyard Blaster (USA).png"
+    },
+    {
+        "name":  "Basketbrawl (USA)",
+        "description":  "Basketbrawl (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Basketball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Basketbrawl (USA).png"
+    },
+    {
+        "name":  "Centipede (USA)",
+        "description":  "Centipede (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1987",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Centipede (USA).png"
+    },
+    {
+        "name":  "Choplifter! (USA)",
+        "description":  "Choplifter! (USA)",
+        "manufacturer":  "Broderbund Software",
+        "year":  "1988",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Choplifter! (USA).png"
+    },
+    {
+        "name":  "Commando (USA)",
+        "description":  "Commando (USA)",
+        "manufacturer":  "Capcom",
+        "year":  "1989",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Commando (USA).png"
+    },
+    {
+        "name":  "Crack\u0027ed (USA)",
+        "description":  "Crack\u0027ed (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1988",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Crack\u0027ed (USA).png"
+    },
+    {
+        "name":  "Crossbow (USA)",
+        "description":  "Crossbow (USA)",
+        "manufacturer":  "Exidy",
+        "year":  "1987",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Crossbow (USA).png"
+    },
+    {
+        "name":  "Dark Chambers (USA)",
+        "description":  "Dark Chambers (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1988",
+        "genre":  "Maze",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Dark Chambers (USA).png"
+    },
+    {
+        "name":  "Desert Falcon (USA)",
+        "description":  "Desert Falcon (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1987",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Desert Falcon (USA).png"
+    },
+    {
+        "name":  "Dig Dug (USA)",
+        "description":  "Dig Dug (USA)",
+        "manufacturer":  "Namco",
+        "year":  "1987",
+        "genre":  "Maze",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Dig Dug (USA).png"
+    },
+    {
+        "name":  "Donkey Kong (USA)",
+        "description":  "Donkey Kong (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1988",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Donkey Kong (USA).png"
+    },
+    {
+        "name":  "Donkey Kong Junior (USA)",
+        "description":  "Donkey Kong Junior (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1988",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Donkey Kong Junior (USA).png"
+    },
+    {
+        "name":  "Double Dragon (USA)",
+        "description":  "Double Dragon (USA)",
+        "manufacturer":  "Technos",
+        "year":  "1989",
+        "genre":  "Beat-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Double Dragon (USA).png"
+    },
+    {
+        "name":  "F-18 Hornet (USA)",
+        "description":  "F-18 Hornet (USA)",
+        "manufacturer":  "Absolute Entertainment",
+        "year":  "1988",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/F-18 Hornet (USA).png"
+    },
+    {
+        "name":  "Fatal Run (USA)",
+        "description":  "Fatal Run (USA)",
+        "manufacturer":  "Sculptured Software",
+        "year":  "1990",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Fatal Run (USA).png"
+    },
+    {
+        "name":  "Fight Night (USA)",
+        "description":  "Fight Night (USA)",
+        "manufacturer":  "Sydney Development",
+        "year":  "1988",
+        "genre":  "Boxing/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Fight Night (USA).png"
+    },
+    {
+        "name":  "Food Fight (USA)",
+        "description":  "Food Fight (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1987",
+        "genre":  "Fighter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Food Fight (USA).png"
+    },
+    {
+        "name":  "Galaga (USA)",
+        "description":  "Galaga (USA)",
+        "manufacturer":  "Namco",
+        "year":  "1987",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Galaga (USA).png"
+    },
+    {
+        "name":  "Hat Trick (USA)",
+        "description":  "Hat Trick (USA)",
+        "manufacturer":  "Bally Sente",
+        "year":  "1987",
+        "genre":  "Hockey/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Hat Trick (USA).png"
+    },
+    {
+        "name":  "Ikari Warriors (USA)",
+        "description":  "Ikari Warriors (USA)",
+        "manufacturer":  "SNK",
+        "year":  "1989",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Ikari Warriors (USA).png"
+    },
+    {
+        "name":  "Impossible Mission (USA)",
+        "description":  "Impossible Mission (USA)",
+        "manufacturer":  "Epyx",
+        "year":  "1987",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Impossible Mission (Europe).png"
+    },
+    {
+        "name":  "Jinks (USA)",
+        "description":  "Jinks (USA)",
+        "manufacturer":  "Diamond Software",
+        "year":  "1989",
+        "genre":  "Breakout",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Jinks (USA).png"
+    },
+    {
+        "name":  "Joust (USA)",
+        "description":  "Joust (USA)",
+        "manufacturer":  "Williams Electronics",
+        "year":  "1987",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Joust (USA).png"
+    },
+    {
+        "name":  "Karateka (USA)",
+        "description":  "Karateka (USA)",
+        "manufacturer":  "Broderbund Software",
+        "year":  "1987",
+        "genre":  "Fighter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Karateka (USA).png"
+    },
+    {
+        "name":  "Kung-Fu Master (USA)",
+        "description":  "Kung-Fu Master (USA)",
+        "manufacturer":  "Irem",
+        "year":  "1989",
+        "genre":  "Fighter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Kung-Fu Master (USA).png"
+    },
+    {
+        "name":  "Mario Bros. (USA)",
+        "description":  "Mario Bros. (USA)",
+        "manufacturer":  "Nintendo",
+        "year":  "1988",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Mario Bros. (USA).png"
+    },
+    {
+        "name":  "Mat Mania Challenge (USA)",
+        "description":  "Mat Mania Challenge (USA)",
+        "manufacturer":  "American Technos",
+        "year":  "1990",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Mat Mania Challenge (USA).png"
+    },
+    {
+        "name":  "Mean 18 Ultimate Golf (USA)",
+        "description":  "Mean 18 Ultimate Golf (USA)",
+        "manufacturer":  "Accolade",
+        "year":  "1989",
+        "genre":  "Golf/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Mean 18 Ultimate Golf (USA).png"
+    },
+    {
+        "name":  "Meltdown (USA)",
+        "description":  "Meltdown (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Meltdown (USA).png"
+    },
+    {
+        "name":  "Midnight Mutants (USA)",
+        "description":  "Midnight Mutants (USA)",
+        "manufacturer":  "Radioactive Software",
+        "year":  "1990",
+        "genre":  "Adventure",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Midnight Mutants (USA).png"
+    },
+    {
+        "name":  "Motor Psycho (USA)",
+        "description":  "Motor Psycho (USA)",
+        "manufacturer":  "BlueSky Software",
+        "year":  "1990",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Motor Psycho (USA).png"
+    },
+    {
+        "name":  "Ms. Pac-Man (USA)",
+        "description":  "Ms. Pac-Man (USA)",
+        "manufacturer":  "General Computer Corporation, Midway",
+        "year":  "1987",
+        "genre":  "Maze",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Ms. Pac-Man (USA).png"
+    },
+    {
+        "name":  "Ninja Golf (USA)",
+        "description":  "Ninja Golf (USA)",
+        "manufacturer":  "BlueSky Software",
+        "year":  "1990",
+        "genre":  "Golf/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Ninja Golf (USA).png"
+    },
+    {
+        "name":  "One-on-One Basketball (USA)",
+        "description":  "One-on-One Basketball (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1987",
+        "genre":  "Basketball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/One-on-One Basketball (USA).png"
+    },
+    {
+        "name":  "Pete Rose Baseball (USA)",
+        "description":  "Pete Rose Baseball (USA)",
+        "manufacturer":  "Absolute Entertainment",
+        "year":  "1989",
+        "genre":  "Baseball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Pete Rose Baseball (USA).png"
+    },
+    {
+        "name":  "Planet Smashers (USA)",
+        "description":  "Planet Smashers (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1990",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Planet Smashers (USA).png"
+    },
+    {
+        "name":  "Pole Position II (USA)",
+        "description":  "Pole Position II (USA)",
+        "manufacturer":  "Namco",
+        "year":  "1987",
+        "genre":  "Driving",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Pole Position II (USA).png"
+    },
+    {
+        "name":  "Rampage (USA)",
+        "description":  "Rampage (USA)",
+        "manufacturer":  "Bally Midway",
+        "year":  "1989",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Rampage (USA).png"
+    },
+    {
+        "name":  "RealSports Baseball (USA)",
+        "description":  "RealSports Baseball (USA)",
+        "manufacturer":  "Atari",
+        "year":  "1988",
+        "genre":  "Baseball/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/RealSports Baseball (USA).png"
+    },
+    {
+        "name":  "Robotron - 2084 (USA)",
+        "description":  "Robotron - 2084 (USA)",
+        "manufacturer":  "Williams Electronic Games",
+        "year":  "1986",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Robotron - 2084 (USA).png"
+    },
+    {
+        "name":  "Scrapyard Dog (USA)",
+        "description":  "Scrapyard Dog (USA)",
+        "manufacturer":  "BlueSky Software",
+        "year":  "1990",
+        "genre":  "Platform",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Scrapyard Dog (USA).png"
+    },
+    {
+        "name":  "Sentinel (Europe)",
+        "description":  "Sentinel (Europe)",
+        "manufacturer":  "Atari",
+        "year":  "1991",
+        "genre":  "Gun",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Sentinel (Europe).png"
+    },
+    {
+        "name":  "Summer Games (USA)",
+        "description":  "Summer Games (USA)",
+        "manufacturer":  "Epyx",
+        "year":  "1987",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Summer Games (USA).png"
+    },
+    {
+        "name":  "Super Huey UH-1X (USA)",
+        "description":  "Super Huey UH-1X (USA)",
+        "manufacturer":  "Cosmi",
+        "year":  "1988",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Super Huey UH-1X (USA).png"
+    },
+    {
+        "name":  "Super Skateboardin\u0027 (USA)",
+        "description":  "Super Skateboardin\\\u0027 (USA)",
+        "manufacturer":  "Absolute Entertainment",
+        "year":  "1988",
+        "genre":  "Skateboarding/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Super Skateboardin\u0027 (USA).png"
+    },
+    {
+        "name":  "Tank Command (USA)",
+        "description":  "Tank Command (USA)",
+        "manufacturer":  "Froggo Games",
+        "year":  "1988",
+        "genre":  "Shooter",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Tank Command (USA).png"
+    },
+    {
+        "name":  "Title Match Pro Wrestling (USA)",
+        "description":  "Title Match Pro Wrestling (USA)",
+        "manufacturer":  "Absolute Entertainment",
+        "year":  "1989",
+        "genre":  "Sports/Wrestling",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Title Match Pro Wrestling (USA).png"
+    },
+    {
+        "name":  "Tomcat - The F-14 Fighter Simulator (USA)",
+        "description":  "Tomcat - The F-14 Fighter Simulator (USA)",
+        "manufacturer":  "Absolute Entertainment",
+        "year":  "1989",
+        "genre":  "Flying",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Tomcat - The F-14 Fighter Simulator (USA).png"
+    },
+    {
+        "name":  "Touchdown Football (USA)",
+        "description":  "Touchdown Football (USA)",
+        "manufacturer":  "Imagic",
+        "year":  "1988",
+        "genre":  "Football/Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Touchdown Football (USA).png"
+    },
+    {
+        "name":  "Tower Toppler (USA)",
+        "description":  "Tower Toppler (USA)",
+        "manufacturer":  "Hewson",
+        "year":  "1988",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Tower Toppler (USA).png"
+    },
+    {
+        "name":  "Water Ski (USA)",
+        "description":  "Water Ski (USA)",
+        "manufacturer":  "Froggo Games",
+        "year":  "1988",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Water Ski (USA).png"
+    },
+    {
+        "name":  "Winter Games (USA)",
+        "description":  "Winter Games (USA)",
+        "manufacturer":  "Action Graphics",
+        "year":  "1987",
+        "genre":  "Sports",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Winter Games (USA).png"
+    },
+    {
+        "name":  "Xenophobe (USA)",
+        "description":  "Xenophobe (USA)",
+        "manufacturer":  "Bally Midway",
+        "year":  "1989",
+        "genre":  "Action",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Xenophobe (USA).png"
+    },
+    {
+        "name":  "Xevious (USA)",
+        "description":  "Xevious (USA)",
+        "manufacturer":  "Namco",
+        "year":  "1988",
+        "genre":  "Shoot-\u0027Em-Up",
+        "rating":  "HSRS - GA (General Audience)",
+        "image":  "https://archive.org/download/a7800-box-art/A7800 Box Art/Xevious (USA).png"
+    }
+]

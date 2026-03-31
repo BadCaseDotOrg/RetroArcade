@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "BadCase's Retro Arcade",
+  "version": "1.0",
+  "description": "Inject Play buttons on sites hosting roms and play them in your browser.",
+  "permissions": ["storage", "tabs"],
+    "icons": {
+    "16": "img/icon16.png",
+    "32": "img/icon32.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+        "default_icon": {
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png",
+      "128": "img/icon128.png"
+    },
+    "default_title": "BadCase's Arcade"
+  },
+  "background": {},
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["arcadeTab.html", "json/*.json", "img/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
