@@ -1,0 +1,53 @@
+name: Build, Sign & Release WebAssetX Chrome Extension
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Tag or version for this release (e.g., v1.0.0)'
+        required: true
+        default: 'v1.0.0'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      # 1️⃣ Checkout code
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2️⃣ Create ZIP artifact
+      - name: Create ZIP artifact
+        run: |
+          # Adjust folder if your extension is inside a subfolder
+          cd badcases-arcade || true
+          zip -r ../retroarcade-${{ github.event.inputs.release_tag }}.zip . \
+            -x "*.git*" ".github/*"
+
+      # 3️⃣ Pack & sign CRX
+      - name: Pack and sign CRX
+        uses: cardinalby/webext-buildtools-chrome-crx-action@v2
+        with:
+          zipFilePath: retroarcade-${{ github.event.inputs.release_tag }}.zip
+          crxFilePath: retroarcade-${{ github.event.inputs.release_tag }}.crx
+          privateKey: ${{ secrets.CRX_PRIVATE_KEY_BASE64 }}
+
+      # 4️⃣ Create GitHub Release
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.release_tag }}
+          files: |
+            retroarcade-${{ github.event.inputs.release_tag }}.zip
+            retroarcade-${{ github.event.inputs.release_tag }}.crx
+          generate_release_notes: true
+          draft: false
+          prerelease: ${{ contains(github.event.inputs.release_tag, 'beta') || contains(github.event.inputs.release_tag, 'alpha') }}
+          body: |
+            **WebAssetX ${{ github.event.inputs.release_tag }} Release**
+
+            - ZIP: For Chrome Desktop "Load unpacked" and Quetta Mobile
+            - CRX: For Firefox Desktop and FireFox Nightly Mobile via CRX Installer
