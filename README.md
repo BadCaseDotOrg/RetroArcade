@@ -15,12 +15,17 @@
 
 ## Key Features
 
-- Scans pages for links to files with common rom extensions
-- Injects play buttons when they are found
-- Play buttons launch the game in a browser based emulator
-- Played roms are added to a searchable dashboard
-- You can edit box covers and rom titles in your dashboard  
-- Works on both desktop and mobile browsers  
+- **Smart ROM Detection**: Scans any webpage instantly for links to common ROM file extensions.
+
+- **One-Click Play**: Injects a "Play" button directly next to detected links for immediate access.
+
+- **Native Browser Emulator**: Launches games directly in your browser—no external software or setup required.
+
+- **Dynamic Arcade Dashboard**: Automatically saves played ROMs to a sleek, searchable library.
+
+- **Custom Library Curation**: Personalize your collection by editing box art and ROM titles within the dashboard.
+
+- **Universal Compatibility**: Optimized for a seamless retro gaming experience on both desktop and mobile.
 
 ---
 
