@@ -20,6 +20,7 @@
 - Play buttons launch the game in a browser based emulator
 - Played roms are added to a searchable dashboard
 - You can edit box covers and rom titles in your dashboard  
+- Works on both desktop and mobile browsers  
 
 ---
 
