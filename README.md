@@ -15,34 +15,21 @@
 
 ## Key Features
 
-- Tracks users when a comment from a blocker is encountered  
-- Lookup conversation history with blockers  
-- Add blockers to the **Trophy Room** to showcase your top 10 blocks  
-- Backup and restore your blocker list and Trophy Room  
-- Works on both desktop and mobile browsers  
+- Scans pages for links to files with common rom extensions
+- Injects play buttons when they are found
+- Play buttons launch the game in a browser based emulator
+- Played roms are added to a searchable dashboard
+- You can edit box covers and rom titles in your dashboard  
 
 ---
 
 ## Screenshots
 
-**Main Panel (Desktop)**  
-<img src="./img/desktop_panel.png" alt="Desktop Main Panel" width="600">
+**Injected Buttons**  
+<img src="./img/buttons.png" alt="Injected Buttons" width="300">
 
-**Trophy Room (Desktop)**  
-<img src="./img/desktop_trophy.png" alt="Desktop Trophy Room" width="600">
-
-**Trophy Room with Settings (Desktop)**  
-<img src="./img/desktop_trophy_settings.png" alt="Desktop Trophy Room Settings" width="600">
-
-**Main Panel (Mobile)**  
-<img src="./img/mobile_panel.jpg" alt="Mobile Main Panel" width="300">
-
-**Trophy Room (Mobile)**  
-<img src="./img/mobile_trophy.jpg" alt="Mobile Trophy Room" width="300">
-
-**Trophy Room with Settings (Mobile)**  
-<img src="./img/mobile_trophy_settings.jpg" alt="Mobile Trophy Room Settings" width="300">
-
+**User Dashboard**  
+<img src="./img/arcade-dashboard.png" alt="User Dashboard" width="300">
 ---
 
 ## Installation
