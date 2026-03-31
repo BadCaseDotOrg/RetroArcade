@@ -36,6 +36,7 @@
 
 **User Dashboard**  
 <img src="./img/arcade-dashboard.png" alt="User Dashboard" width="100%">
+
 ---
 
 ## Installation
@@ -43,9 +44,10 @@
 ### Chrome Desktop (Recommended for Desktop)
 
 1. Download the latest ZIP release from [Releases](https://github.com/BadCaseDotOrg/RetroArcade/releases).
-2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable **Developer mode** (toggle top-right).
-4. Click **Load unpacked** and select the extracted folder from the ZIP.
+2. Unzip the extensions **.zip** file.
+3. Open Chrome and navigate to `chrome://extensions/`.
+4. Enable **Developer mode** (toggle top-right).
+5. Click **Load unpacked** and select the extracted folder from the ZIP.
 
 ---
 
